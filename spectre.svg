@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="700"
+   height="550"
+   viewBox="0 0 700 550"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="spectre.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="2.5727273"
+     inkscape:cx="349.82332"
+     inkscape:cy="275"
+     inkscape:window-width="2880"
+     inkscape:window-height="1620"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1" />
+  <path
+     id="spectre"
+     d="M 200.0000 350.0000 L 300.0000 350.0000 L 350.0000 436.6025 L 436.6025 386.6025 L 436.6025 286.6025 L 536.6025 286.6025 L 586.6025 200.0000 L 500.0000 150.0000 L 413.3975 200.0000 L 363.3975 113.3975 L 263.3975 113.3975 L 163.3975 113.3975 L 113.3975 200.0000 L 200.0000 250.0000 Z"
+     style="fill:none;stroke:#e6e6e6;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     id="arc00in"
+     d="M 200.0000 350.0000 A 50 50 0 0 1 300.0000 350.0000"
+     style="fill:none;stroke:#e6e6e6;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     id="arc01out"
+     d="M 300.0000 350.0000 A 50 50 0 0 0 350.0000 436.6025"
+     style="fill:none;stroke:#e6e6e6;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     id="arc02in"
+     d="M 350.0000 436.6025 A 50 50 0 0 1 436.6025 386.6025"
+     style="fill:none;stroke:#e6e6e6;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     id="arc03out"
+     d="M 436.6025 386.6025 A 50 50 0 0 0 436.6025 286.6025"
+     style="fill:none;stroke:#e6e6e6;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     id="arc04in"
+     d="M 436.6025 286.6025 A 50 50 0 0 1 536.6025 286.6025"
+     style="fill:none;stroke:#e6e6e6;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     id="arc05out"
+     d="M 536.6025 286.6025 A 50 50 0 0 0 586.6025 200.0000"
+     style="fill:none;stroke:#e6e6e6;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     id="arc06in"
+     d="M 586.6025 200.0000 A 50 50 0 0 1 500.0000 150.0000"
+     style="fill:none;stroke:#e6e6e6;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     id="arc07out"
+     d="M 500.0000 150.0000 A 50 50 0 0 0 413.3975 200.0000"
+     style="fill:none;stroke:#e6e6e6;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     id="arc08in"
+     d="M 413.3975 200.0000 A 50 50 0 0 1 363.3975 113.3975"
+     style="fill:none;stroke:#e6e6e6;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     id="arc09out"
+     d="M 363.3975 113.3975 A 50 50 0 0 0 263.3975 113.3975"
+     style="fill:none;stroke:#e6e6e6;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     id="arc10in"
+     d="M 263.3975 113.3975 A 50 50 0 0 1 163.3975 113.3975"
+     style="fill:none;stroke:#e6e6e6;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     id="arc11out"
+     d="M 163.3975 113.3975 A 50 50 0 0 0 113.3975 200.0000"
+     style="fill:none;stroke:#e6e6e6;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     id="arc12in"
+     d="M 113.3975 200.0000 A 50 50 0 0 1 200.0000 250.0000"
+     style="fill:none;stroke:#e6e6e6;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     id="arc13out"
+     d="M 200.0000 250.0000 A 50 50 0 0 0 200.0000 350.0000"
+     style="fill:none;stroke:#e6e6e6;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     id="tile00bg"
+     d="M 200.0000 350.0000 A 50 50 0 0 0 300.0000 350.0000 Z"
+     style="fill:#ffffff;stroke:#e00000;stroke-width:1.5;stroke-linejoin:round" />
+  <path
+     id="tile00"
+     d="M 200.0000 350.0000 L 211.1111 350.0000 L 211.1111 381.4270 A 50 50 0 0 1 200.0000 350.0000 Z M 222.2222 350.0000 L 233.3333 350.0000 L 233.3333 397.1405 A 50 50 0 0 1 222.2222 391.5740 Z M 244.4444 350.0000 L 255.5556 350.0000 L 255.5556 399.6904 A 50 50 0 0 1 244.4444 399.6904 Z M 266.6667 350.0000 L 277.7778 350.0000 L 277.7778 391.5740 A 50 50 0 0 1 266.6667 397.1405 Z M 288.8889 350.0000 L 300.0000 350.0000 L 300.0000 350.0000 A 50 50 0 0 1 288.8889 381.4270 Z"
+     style="fill:#e00000;stroke:none" />
+  <path
+     id="tile02bg"
+     d="M 350.0000 436.6025 A 50 50 0 0 0 436.6025 386.6025 Z"
+     style="fill:#ffffff;stroke:#e00000;stroke-width:1.5;stroke-linejoin:round" />
+  <path
+     id="tile02"
+     d="M 350.0000 436.6025 L 359.6225 431.0470 L 375.3360 458.2635 A 50 50 0 0 1 350.0000 436.6025 Z M 369.2450 425.4914 L 378.8675 419.9359 L 402.4377 460.7607 A 50 50 0 0 1 390.0320 461.4955 Z M 388.4900 414.3803 L 398.1125 408.8248 L 422.9577 451.8579 A 50 50 0 0 1 413.3352 457.4135 Z M 407.7350 403.2692 L 417.3575 397.7137 L 438.1445 433.7178 A 50 50 0 0 1 431.3053 444.0940 Z M 426.9800 392.1581 L 436.6025 386.6025 L 436.6025 386.6025 A 50 50 0 0 1 442.6935 419.3746 Z"
+     style="fill:#e00000;stroke:none" />
+  <path
+     id="tile04bg"
+     d="M 436.6025 286.6025 A 50 50 0 0 0 536.6025 286.6025 Z"
+     style="fill:#ffffff;stroke:#e00000;stroke-width:1.5;stroke-linejoin:round" />
+  <path
+     id="tile04"
+     d="M 436.6025 286.6025 L 447.7137 286.6025 L 447.7137 318.0295 A 50 50 0 0 1 436.6025 286.6025 Z M 458.8248 286.6025 L 469.9359 286.6025 L 469.9359 333.7430 A 50 50 0 0 1 458.8248 328.1765 Z M 481.0470 286.6025 L 492.1581 286.6025 L 492.1581 336.2929 A 50 50 0 0 1 481.0470 336.2929 Z M 503.2692 286.6025 L 514.3803 286.6025 L 514.3803 328.1765 A 50 50 0 0 1 503.2692 333.7430 Z M 525.4914 286.6025 L 536.6025 286.6025 L 536.6025 286.6025 A 50 50 0 0 1 525.4914 318.0295 Z"
+     style="fill:#e00000;stroke:none" />
+  <path
+     id="tile06bg"
+     d="M 586.6025 200.0000 A 50 50 0 0 0 500.0000 150.0000 Z"
+     style="fill:#ffffff;stroke:#e00000;stroke-width:1.5;stroke-linejoin:round" />
+  <path
+     id="tile06"
+     d="M 586.6025 200.0000 L 576.9800 194.4444 L 592.6935 167.2279 A 50 50 0 0 1 586.6025 200.0000 Z M 567.3575 188.8889 L 557.7350 183.3333 L 581.3053 142.5085 A 50 50 0 0 1 588.1445 152.8848 Z M 548.1125 177.7778 L 538.4900 172.2222 L 563.3352 129.1891 A 50 50 0 0 1 572.9577 134.7446 Z M 528.8675 166.6667 L 519.2450 161.1111 L 540.0320 125.1070 A 50 50 0 0 1 552.4377 125.8418 Z M 509.6225 155.5556 L 500.0000 150.0000 L 500.0000 150.0000 A 50 50 0 0 1 525.3360 128.3390 Z"
+     style="fill:#e00000;stroke:none" />
+  <path
+     id="tile08bg"
+     d="M 413.3975 200.0000 A 50 50 0 0 0 363.3975 113.3975 Z"
+     style="fill:#ffffff;stroke:#e00000;stroke-width:1.5;stroke-linejoin:round" />
+  <path
+     id="tile08"
+     d="M 413.3975 200.0000 L 407.8419 190.3775 L 435.0585 174.6640 A 50 50 0 0 1 413.3975 200.0000 Z M 402.2863 180.7550 L 396.7308 171.1325 L 437.5556 147.5623 A 50 50 0 0 1 438.2905 159.9680 Z M 391.1752 161.5100 L 385.6197 151.8875 L 428.6528 127.0423 A 50 50 0 0 1 434.2084 136.6648 Z M 380.0641 142.2650 L 374.5086 132.6425 L 410.5127 111.8555 A 50 50 0 0 1 420.8890 118.6947 Z M 368.9530 123.0200 L 363.3975 113.3975 L 363.3975 113.3975 A 50 50 0 0 1 396.1696 107.3065 Z"
+     style="fill:#e00000;stroke:none" />
+  <path
+     id="tile10bg"
+     d="M 263.3975 113.3975 A 50 50 0 0 0 163.3975 113.3975 Z"
+     style="fill:#ffffff;stroke:#e00000;stroke-width:1.5;stroke-linejoin:round" />
+  <path
+     id="tile10"
+     d="M 263.3975 113.3975 L 252.2863 113.3975 L 252.2863 81.9705 A 50 50 0 0 1 263.3975 113.3975 Z M 241.1752 113.3975 L 230.0641 113.3975 L 230.0641 66.2570 A 50 50 0 0 1 241.1752 71.8235 Z M 218.9530 113.3975 L 207.8419 113.3975 L 207.8419 63.7071 A 50 50 0 0 1 218.9530 63.7071 Z M 196.7308 113.3975 L 185.6197 113.3975 L 185.6197 71.8235 A 50 50 0 0 1 196.7308 66.2570 Z M 174.5086 113.3975 L 163.3975 113.3975 L 163.3975 113.3975 A 50 50 0 0 1 174.5086 81.9705 Z"
+     style="fill:#e00000;stroke:none" />
+  <path
+     id="tile12bg"
+     d="M 113.3975 200.0000 A 50 50 0 0 0 200.0000 250.0000 Z"
+     style="fill:#ffffff;stroke:#e00000;stroke-width:1.5;stroke-linejoin:round" />
+  <path
+     id="tile12"
+     d="M 113.3975 200.0000 L 123.0200 205.5556 L 107.3065 232.7721 A 50 50 0 0 1 113.3975 200.0000 Z M 132.6425 211.1111 L 142.2650 216.6667 L 118.6947 257.4915 A 50 50 0 0 1 111.8555 247.1152 Z M 151.8875 222.2222 L 161.5100 227.7778 L 136.6648 270.8109 A 50 50 0 0 1 127.0423 265.2554 Z M 171.1325 233.3333 L 180.7550 238.8889 L 159.9680 274.8930 A 50 50 0 0 1 147.5623 274.1582 Z M 190.3775 244.4444 L 200.0000 250.0000 L 200.0000 250.0000 A 50 50 0 0 1 174.6640 271.6610 Z"
+     style="fill:#e00000;stroke:none" />
+  <path
+     id="arc00out"
+     d="M 200.0000 350.0000 A 50 50 0 0 0 300.0000 350.0000"
+     style="fill:none;stroke:#e00000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     id="arc01in"
+     d="M 300.0000 350.0000 A 50 50 0 0 1 350.0000 436.6025"
+     style="fill:none;stroke:#e00000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     id="arc02out"
+     d="M 350.0000 436.6025 A 50 50 0 0 0 436.6025 386.6025"
+     style="fill:none;stroke:#e00000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     id="arc03in"
+     d="M 436.6025 386.6025 A 50 50 0 0 1 436.6025 286.6025"
+     style="fill:none;stroke:#e00000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     id="arc04out"
+     d="M 436.6025 286.6025 A 50 50 0 0 0 536.6025 286.6025"
+     style="fill:none;stroke:#e00000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     id="arc05in"
+     d="M 536.6025 286.6025 A 50 50 0 0 1 586.6025 200.0000"
+     style="fill:none;stroke:#e00000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     id="arc06out"
+     d="M 586.6025 200.0000 A 50 50 0 0 0 500.0000 150.0000"
+     style="fill:none;stroke:#e00000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     id="arc07in"
+     d="M 500.0000 150.0000 A 50 50 0 0 1 413.3975 200.0000"
+     style="fill:none;stroke:#e00000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     id="arc08out"
+     d="M 413.3975 200.0000 A 50 50 0 0 0 363.3975 113.3975"
+     style="fill:none;stroke:#e00000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     id="arc09in"
+     d="M 363.3975 113.3975 A 50 50 0 0 1 263.3975 113.3975"
+     style="fill:none;stroke:#e00000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     id="arc10out"
+     d="M 263.3975 113.3975 A 50 50 0 0 0 163.3975 113.3975"
+     style="fill:none;stroke:#e00000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     id="arc11in"
+     d="M 163.3975 113.3975 A 50 50 0 0 1 113.3975 200.0000"
+     style="fill:none;stroke:#e00000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     id="arc12out"
+     d="M 113.3975 200.0000 A 50 50 0 0 0 200.0000 250.0000"
+     style="fill:none;stroke:#e00000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     id="arc13in"
+     d="M 200.0000 250.0000 A 50 50 0 0 1 200.0000 350.0000"
+     style="fill:none;stroke:#e00000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
+</svg>
