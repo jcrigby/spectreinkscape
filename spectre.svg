@@ -204,4 +204,20 @@
      id="arc13in"
      d="M 200.0000 250.0000 A 50 50 0 0 1 200.0000 350.0000"
      style="fill:none;stroke:#e00000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
+  <g inkscape:groupmode="layer" inkscape:label="Numbers" id="layer-numbers">
+    <text id="num01" x="250.00" y="333.00" style="font-family:sans-serif;font-weight:bold;font-size:20px;text-anchor:middle;fill:#1a3a8a;stroke:none">1</text>
+    <text id="num02" x="345.78" y="388.30" style="font-family:sans-serif;font-weight:bold;font-size:20px;text-anchor:middle;fill:#1a3a8a;stroke:none">2</text>
+    <text id="num03" x="381.30" y="397.82" style="font-family:sans-serif;font-weight:bold;font-size:20px;text-anchor:middle;fill:#1a3a8a;stroke:none">3</text>
+    <text id="num04" x="412.60" y="343.60" style="font-family:sans-serif;font-weight:bold;font-size:20px;text-anchor:middle;fill:#1a3a8a;stroke:none">4</text>
+    <text id="num05" x="486.60" y="269.60" style="font-family:sans-serif;font-weight:bold;font-size:20px;text-anchor:middle;fill:#1a3a8a;stroke:none">5</text>
+    <text id="num06" x="540.82" y="238.30" style="font-family:sans-serif;font-weight:bold;font-size:20px;text-anchor:middle;fill:#1a3a8a;stroke:none">6</text>
+    <text id="num07" x="531.30" y="202.78" style="font-family:sans-serif;font-weight:bold;font-size:20px;text-anchor:middle;fill:#1a3a8a;stroke:none">7</text>
+    <text id="num08" x="468.70" y="202.78" style="font-family:sans-serif;font-weight:bold;font-size:20px;text-anchor:middle;fill:#1a3a8a;stroke:none">8</text>
+    <text id="num09" x="367.61" y="175.70" style="font-family:sans-serif;font-weight:bold;font-size:20px;text-anchor:middle;fill:#1a3a8a;stroke:none">9</text>
+    <text id="num10" x="313.40" y="144.40" style="font-family:sans-serif;font-weight:bold;font-size:20px;text-anchor:middle;fill:#1a3a8a;stroke:none">10</text>
+    <text id="num11" x="213.40" y="144.40" style="font-family:sans-serif;font-weight:bold;font-size:20px;text-anchor:middle;fill:#1a3a8a;stroke:none">11</text>
+    <text id="num12" x="159.18" y="175.70" style="font-family:sans-serif;font-weight:bold;font-size:20px;text-anchor:middle;fill:#1a3a8a;stroke:none">12</text>
+    <text id="num13" x="168.70" y="211.22" style="font-family:sans-serif;font-weight:bold;font-size:20px;text-anchor:middle;fill:#1a3a8a;stroke:none">13</text>
+    <text id="num14" x="224.00" y="307.00" style="font-family:sans-serif;font-weight:bold;font-size:20px;text-anchor:middle;fill:#1a3a8a;stroke:none">14</text>
+  </g>
 </svg>
