@@ -54,6 +54,8 @@ refuses to write anything if two pieces overlap. Both pictures on this page are 
   patch showing the pieces inside every tile.
 - `make_spectre.py` generates the two pictures on this page.
 - `spectre-shapes.svg` and `spectre-patch.svg` are those pictures.
+- `scratch/` holds the throwaway scripts from the drawing session, kept for the record; see
+  its README.
 
 ## Earlier versions
 
