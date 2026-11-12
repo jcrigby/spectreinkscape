@@ -1755,8 +1755,12 @@
        style="fill:#2060d0;fill-opacity:0.45;stroke:#103a8a;stroke-width:2;stroke-linejoin:round" />
     <path
        id="movehalf"
-       d="m 545.93641,530.10601 25,-43.3013 h 50 l 25,43.3013 z"
+       d="m 798.39752,243.30126 -25.00002,-43.30129 25,-43.30127 50.00002,1e-5 z"
        style="fill:#f08a00;fill-opacity:0.5;stroke:#8a4a00;stroke-width:2;stroke-linejoin:round" />
+    <path
+       id="movetri"
+       d="M 990 520 L 1015 476.6987 L 1040 520 Z"
+       style="fill:#8a3fc0;fill-opacity:0.5;stroke:#4a1a70;stroke-width:2;stroke-linejoin:round" />
   </g>
   <g
      inkscape:groupmode="layer"
