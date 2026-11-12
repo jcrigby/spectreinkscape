@@ -39,63 +39,63 @@
     <path
        id="spectre"
        d="M 200.0000 350.0000 L 300.0000 350.0000 L 350.0000 436.6025 L 436.6025 386.6025 L 436.6025 286.6025 L 536.6025 286.6025 L 586.6025 200.0000 L 500.0000 150.0000 L 413.3975 200.0000 L 363.3975 113.3975 L 263.3975 113.3975 L 163.3975 113.3975 L 113.3975 200.0000 L 200.0000 250.0000 Z"
-       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
+       style="fill:none;stroke:#e6e6e6;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
     <path
        id="hex00in"
        d="M 200.0000 350.0000 L 225.0000 306.6987 L 275.0000 306.6987 L 300.0000 350.0000"
-       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
+       style="fill:none;stroke:#e6e6e6;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
     <path
        id="hex01out"
        d="M 300.0000 350.0000 L 275.0000 393.3013 L 300.0000 436.6025 L 350.0000 436.6025"
-       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
+       style="fill:none;stroke:#e6e6e6;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
     <path
        id="hex02in"
        d="M 350.0000 436.6025 L 350.0000 386.6025 L 393.3013 361.6025 L 436.6025 386.6025"
-       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
+       style="fill:none;stroke:#e6e6e6;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
     <path
        id="hex03out"
        d="M 436.6025 386.6025 L 479.9038 361.6025 L 479.9038 311.6025 L 436.6025 286.6025"
-       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
+       style="fill:none;stroke:#e6e6e6;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
     <path
        id="hex04in"
        d="M 436.6025 286.6025 L 461.6025 243.3013 L 511.6025 243.3013 L 536.6025 286.6025"
-       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
+       style="fill:none;stroke:#e6e6e6;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
     <path
        id="hex05out"
        d="M 536.6025 286.6025 L 586.6025 286.6025 L 611.6025 243.3013 L 586.6025 200.0000"
-       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
+       style="fill:none;stroke:#e6e6e6;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
     <path
        id="hex06in"
        d="M 586.6025 200.0000 L 543.3013 225.0000 L 500.0000 200.0000 L 500.0000 150.0000"
-       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
+       style="fill:none;stroke:#e6e6e6;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
     <path
        id="hex07out"
        d="M 500.0000 150.0000 L 456.6987 125.0000 L 413.3975 150.0000 L 413.3975 200.0000"
-       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
+       style="fill:none;stroke:#e6e6e6;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
     <path
        id="hex08in"
        d="M 413.3975 200.0000 L 363.3975 200.0000 L 338.3975 156.6987 L 363.3975 113.3975"
-       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
+       style="fill:none;stroke:#e6e6e6;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
     <path
        id="hex09out"
        d="M 363.3975 113.3975 L 338.3975 70.0962 L 288.3975 70.0962 L 263.3975 113.3975"
-       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
+       style="fill:none;stroke:#e6e6e6;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
     <path
        id="hex10in"
        d="M 263.3975 113.3975 L 238.3975 156.6987 L 188.3975 156.6987 L 163.3975 113.3975"
-       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
+       style="fill:none;stroke:#e6e6e6;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
     <path
        id="hex11out"
        d="M 163.3975 113.3975 L 113.3975 113.3975 L 88.3975 156.6987 L 113.3975 200.0000"
-       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
+       style="fill:none;stroke:#e6e6e6;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
     <path
        id="hex12in"
        d="M 113.3975 200.0000 L 156.6987 175.0000 L 200.0000 200.0000 L 200.0000 250.0000"
-       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
+       style="fill:none;stroke:#e6e6e6;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
     <path
        id="hex13out"
        d="M 200.0000 250.0000 L 156.6987 275.0000 L 156.6987 325.0000 L 200.0000 350.0000"
-       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
+       style="fill:none;stroke:#e6e6e6;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
     <path
        id="hex00out"
        d="M 200.0000 350.0000 L 225.0000 393.3013 L 275.0000 393.3013 L 300.0000 350.0000"
