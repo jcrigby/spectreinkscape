@@ -30,12 +30,19 @@ The hexagon-edged tile was checked to fit together with copies of itself: `spect
 includes a 71-tile patch built by the Spectre substitution rules, with no overlaps and no
 holes. The edge shape is not claimed to force aperiodicity.
 
+## The tiling patch
+
+The same 71 tiles, each drawn with its 95 pieces. Dark red lines are the tile outlines.
+
+![71 Spectre tiles, each filled with the four shapes](spectre-patch.svg)
+
 ## Files
 
 - `spectre.svg` is the working drawing: a locked reference tile, an editable working tile
   with numbered hexagons and corner labels, loose pieces to drag around, and the 71-tile
   patch showing the pieces inside every tile.
 - `spectre-shapes.svg` is the summary sheet shown above.
+- `spectre-patch.svg` is the tiling patch on its own, copied out of `spectre.svg`.
 
 ## Earlier versions
 
