@@ -220,6 +220,34 @@ Also from this kind of work:
   to private if visibility was not stated and say so, and push tags (`git push origin --tags`)
   if milestones were tagged. Local commit-after-each-change does not imply pushing.
 
+## Freezing the result into a generator script
+
+When the user calls a hand-built drawing finished and wants it reproducible ("a script that
+creates the final"), write one standalone script rather than shipping the session's scratch
+scripts:
+
+- **Split data from rules.** Whatever was placed by hand or found by search (piece corners) is
+  data: read it once from the working SVG with `ink.load_polys` and embed it as a literal
+  table. Whatever follows from a rule (an outline built from the edges, a tiling built by
+  substitution, colours, layout) is computed. Say in a comment which is which.
+- **Use the drawing's natural units** in the table (here: tile edge = 1, y up), not page
+  pixels; convert at output time. It makes the data readable and the picture rescalable.
+- **Standard library only**, no numpy: 2×3 affine tuples and Sutherland–Hodgman are a few
+  lines, and the script then runs anywhere the repo is cloned.
+- **Assert before writing:** no two pieces overlap, every piece is inside the outline, counts
+  are what the README claims. A generator that silently draws a broken tile is worse than none.
+- **Make the committed pictures the script's output.** Run it into a scratch folder, render
+  with headless Chrome and compare by eye with the hand-built version, then run it in the repo
+  and `cmp` against the checked files before committing. From then on the README can say the
+  pictures are generated, and it stays true.
+- **State what it does not rebuild** (the interactive working file with labels, locked copies
+  and loose pieces) and that the embedded table must be refreshed if the drawing changes.
+- Running Python inside the repo leaves `__pycache__/` next to imported helpers; put it in
+  `.gitignore` before `git add -A`.
+
+When this skill is kept both per user and inside a project repo, edit one copy, copy it over
+the other, and commit; `diff -r` the two folders to confirm they match.
+
 ## Safety: this can crash Inkscape
 
 Inkscape crashed once here: a scratch window was closed over D-Bus (`document-close --win N`
