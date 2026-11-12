@@ -41,90 +41,174 @@
         <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#e00000;stroke:none" id="rect7" />
       </pattern>
     </defs>
-    <path id="rcutt01_1bg" d="M 250.0000 350.0000 L 200.0000 350.0000 L 225.0000 393.3013 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
-    <path id="rcutt01_1" d="M 250.0000 350.0000 L 200.0000 350.0000 L 225.0000 393.3013 Z" style="fill:url(#rcutt01_1pat);stroke:none" />
-    <path id="rcutt01_2bg" d="M 225.0000 393.3013 L 275.0000 393.3013 L 250.0000 350.0000 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
-    <path id="rcutt01_2" d="M 225.0000 393.3013 L 275.0000 393.3013 L 250.0000 350.0000 Z" style="fill:url(#rcutt01_2pat);stroke:none" />
-    <path id="rcutt01_3bg" d="M 300.0000 350.0000 L 250.0000 350.0000 L 275.0000 393.3013 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
-    <path id="rcutt01_3" d="M 300.0000 350.0000 L 250.0000 350.0000 L 275.0000 393.3013 Z" style="fill:url(#rcutt01_3pat);stroke:none" />
-    <path id="rcutt01_4bg" d="M 250.0000 350.0000 L 300.0000 350.0000 L 275.0000 306.6987 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
-    <path id="rcutt01_4" d="M 250.0000 350.0000 L 300.0000 350.0000 L 275.0000 306.6987 Z" style="fill:url(#rcutt01_4pat);stroke:none" />
-    <path id="rcuth01_1bg" d="M 275.0000 306.6987 L 237.5000 328.3493 L 250.0000 350.0000 Z" style="fill:#ffffff;stroke:#f08a1c;stroke-width:1.5;stroke-linejoin:round" />
-    <path id="rcuth01_1" d="M 275.0000 306.6987 L 237.5000 328.3493 L 250.0000 350.0000 Z" style="fill:url(#rcuth01_1pat);stroke:none" />
-    <path id="rcuth01_2bg" d="M 250.0000 350.0000 L 200.0000 350.0000 L 237.5000 328.3493 Z" style="fill:#ffffff;stroke:#f08a1c;stroke-width:1.5;stroke-linejoin:round" />
-    <path id="rcuth01_2" d="M 250.0000 350.0000 L 200.0000 350.0000 L 237.5000 328.3493 Z" style="fill:url(#rcuth01_2pat);stroke:none" />
-    <path id="rcutt03_1bg" d="M 350.0000 436.6025 L 393.3013 461.6025 L 393.3012 411.6025 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
-    <path id="rcutt03_1" d="M 350.0000 436.6025 L 393.3013 461.6025 L 393.3012 411.6025 Z" style="fill:url(#rcutt03_1pat);stroke:none" />
-    <path id="rcutt03_2bg" d="M 436.6025 436.6025 L 393.3012 411.6025 L 393.3013 461.6025 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
-    <path id="rcutt03_2" d="M 436.6025 436.6025 L 393.3012 411.6025 L 393.3013 461.6025 Z" style="fill:url(#rcutt03_2pat);stroke:none" />
-    <path id="rcutt03_3bg" d="M 393.3012 411.6025 L 436.6025 436.6025 L 436.6025 386.6025 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
-    <path id="rcutt03_3" d="M 393.3012 411.6025 L 436.6025 436.6025 L 436.6025 386.6025 Z" style="fill:url(#rcutt03_3pat);stroke:none" />
-    <path id="rcutt03_4bg" d="M 436.6025 386.6025 L 393.3012 361.6025 L 393.3012 411.6025 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
-    <path id="rcutt03_4" d="M 436.6025 386.6025 L 393.3012 361.6025 L 393.3012 411.6025 Z" style="fill:url(#rcutt03_4pat);stroke:none" />
-    <path id="rcuth03_1bg" d="M 371.6506 399.1025 L 393.3012 411.6025 L 393.3012 361.6025 Z" style="fill:#ffffff;stroke:#f08a1c;stroke-width:1.5;stroke-linejoin:round" />
-    <path id="rcuth03_1" d="M 371.6506 399.1025 L 393.3012 411.6025 L 393.3012 361.6025 Z" style="fill:url(#rcuth03_1pat);stroke:none" />
-    <path id="rcuth03_2bg" d="M 393.3012 411.6025 L 350.0000 436.6025 L 371.6506 399.1025 Z" style="fill:#ffffff;stroke:#f08a1c;stroke-width:1.5;stroke-linejoin:round" />
-    <path id="rcuth03_2" d="M 393.3012 411.6025 L 350.0000 436.6025 L 371.6506 399.1025 Z" style="fill:url(#rcuth03_2pat);stroke:none" />
-    <path id="rsplit05_1bg" d="M 486.6025 286.6025 L 436.6025 286.6025 L 461.6025 243.3013 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
-    <path id="rsplit05_1" d="M 486.6025 286.6025 L 436.6025 286.6025 L 461.6025 243.3013 Z" style="fill:url(#rsplit05_1pat);stroke:none" />
-    <path id="rsplit05_2bg" d="M 461.6025 243.3013 L 511.6025 243.3013 L 486.6025 286.6025 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
-    <path id="rsplit05_2" d="M 461.6025 243.3013 L 511.6025 243.3013 L 486.6025 286.6025 Z" style="fill:url(#rsplit05_2pat);stroke:none" />
-    <path id="rsplit05_3bg" d="M 536.6025 286.6025 L 486.6025 286.6025 L 511.6025 243.3013 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
-    <path id="rsplit05_3" d="M 536.6025 286.6025 L 486.6025 286.6025 L 511.6025 243.3013 Z" style="fill:url(#rsplit05_3pat);stroke:none" />
-    <path id="rsplit05_4bg" d="M 486.6025 286.6025 L 536.6025 286.6025 L 511.6025 329.9038 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
-    <path id="rsplit05_4" d="M 486.6025 286.6025 L 536.6025 286.6025 L 511.6025 329.9038 Z" style="fill:url(#rsplit05_4pat);stroke:none" />
-    <path id="rsplit05_5bg" d="M 511.6025 329.9038 L 461.6025 329.9038 L 486.6025 286.6025 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
-    <path id="rsplit05_5" d="M 511.6025 329.9038 L 461.6025 329.9038 L 486.6025 286.6025 Z" style="fill:url(#rsplit05_5pat);stroke:none" />
-    <path id="rsplit05_6bg" d="M 436.6025 286.6025 L 486.6025 286.6025 L 461.6025 329.9038 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
-    <path id="rsplit05_6" d="M 436.6025 286.6025 L 486.6025 286.6025 L 461.6025 329.9038 Z" style="fill:url(#rsplit05_6pat);stroke:none" />
-    <path id="rcutt07_1bg" d="M 586.6025 150.0000 L 543.3012 175.0000 L 586.6025 200.0000 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
-    <path id="rcutt07_1" d="M 586.6025 150.0000 L 543.3012 175.0000 L 586.6025 200.0000 Z" style="fill:url(#rcutt07_1pat);stroke:none" />
-    <path id="rcutt07_2bg" d="M 543.3012 175.0000 L 586.6025 150.0000 L 543.3013 125.0000 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
-    <path id="rcutt07_2" d="M 543.3012 175.0000 L 586.6025 150.0000 L 543.3013 125.0000 Z" style="fill:url(#rcutt07_2pat);stroke:none" />
-    <path id="rcutt07_3bg" d="M 543.3013 125.0000 L 500.0000 150.0000 L 543.3012 175.0000 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
-    <path id="rcutt07_3" d="M 543.3013 125.0000 L 500.0000 150.0000 L 543.3012 175.0000 Z" style="fill:url(#rcutt07_3pat);stroke:none" />
-    <path id="rcutt07_4bg" d="M 543.3012 175.0000 L 500.0000 150.0000 L 500.0000 200.0000 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
-    <path id="rcutt07_4" d="M 543.3012 175.0000 L 500.0000 150.0000 L 500.0000 200.0000 Z" style="fill:url(#rcutt07_4pat);stroke:none" />
-    <path id="rcuth07_1bg" d="M 500.0000 200.0000 L 543.3012 200.0000 L 543.3012 175.0000 Z" style="fill:#ffffff;stroke:#f08a1c;stroke-width:1.5;stroke-linejoin:round" />
-    <path id="rcuth07_1" d="M 500.0000 200.0000 L 543.3012 200.0000 L 543.3012 175.0000 Z" style="fill:url(#rcuth07_1pat);stroke:none" />
-    <path id="rcuth07_2bg" d="M 586.6025 200.0000 L 543.3012 200.0000 L 543.3012 175.0000 Z" style="fill:#ffffff;stroke:#f08a1c;stroke-width:1.5;stroke-linejoin:round" />
-    <path id="rcuth07_2" d="M 586.6025 200.0000 L 543.3012 200.0000 L 543.3012 175.0000 Z" style="fill:url(#rcuth07_2pat);stroke:none" />
-    <path id="rsplit09_1bg" d="M 388.3975 156.6987 L 338.3975 156.6987 L 363.3975 113.3975 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
-    <path id="rsplit09_1" d="M 388.3975 156.6987 L 338.3975 156.6987 L 363.3975 113.3975 Z" style="fill:url(#rsplit09_1pat);stroke:none" />
-    <path id="rsplit09_2bg" d="M 363.3975 113.3975 L 413.3975 113.3975 L 388.3975 156.6987 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
-    <path id="rsplit09_2" d="M 363.3975 113.3975 L 413.3975 113.3975 L 388.3975 156.6987 Z" style="fill:url(#rsplit09_2pat);stroke:none" />
-    <path id="rsplit09_3bg" d="M 438.3975 156.6987 L 388.3975 156.6987 L 413.3975 113.3975 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
-    <path id="rsplit09_3" d="M 438.3975 156.6987 L 388.3975 156.6987 L 413.3975 113.3975 Z" style="fill:url(#rsplit09_3pat);stroke:none" />
-    <path id="rsplit09_4bg" d="M 388.3975 156.6987 L 438.3975 156.6987 L 413.3975 200.0000 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
-    <path id="rsplit09_4" d="M 388.3975 156.6987 L 438.3975 156.6987 L 413.3975 200.0000 Z" style="fill:url(#rsplit09_4pat);stroke:none" />
-    <path id="rsplit09_5bg" d="M 413.3975 200.0000 L 363.3975 200.0000 L 388.3975 156.6987 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
-    <path id="rsplit09_5" d="M 413.3975 200.0000 L 363.3975 200.0000 L 388.3975 156.6987 Z" style="fill:url(#rsplit09_5pat);stroke:none" />
-    <path id="rsplit09_6bg" d="M 338.3975 156.6987 L 388.3975 156.6987 L 363.3975 200.0000 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
-    <path id="rsplit09_6" d="M 338.3975 156.6987 L 388.3975 156.6987 L 363.3975 200.0000 Z" style="fill:url(#rsplit09_6pat);stroke:none" />
-    <path id="rsplit11_1bg" d="M 188.3975 70.0962 L 238.3975 70.0962 L 213.3975 113.3975 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
-    <path id="rsplit11_1" d="M 188.3975 70.0962 L 238.3975 70.0962 L 213.3975 113.3975 Z" style="fill:url(#rsplit11_1pat);stroke:none" />
-    <path id="rsplit11_2bg" d="M 263.3975 113.3975 L 213.3975 113.3975 L 238.3975 70.0962 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
-    <path id="rsplit11_2" d="M 263.3975 113.3975 L 213.3975 113.3975 L 238.3975 70.0962 Z" style="fill:url(#rsplit11_2pat);stroke:none" />
-    <path id="rsplit11_3bg" d="M 213.3975 113.3975 L 263.3975 113.3975 L 238.3975 156.6987 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
-    <path id="rsplit11_3" d="M 213.3975 113.3975 L 263.3975 113.3975 L 238.3975 156.6987 Z" style="fill:url(#rsplit11_3pat);stroke:none" />
-    <path id="rsplit11_4bg" d="M 238.3975 156.6987 L 188.3975 156.6987 L 213.3975 113.3975 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
-    <path id="rsplit11_4" d="M 238.3975 156.6987 L 188.3975 156.6987 L 213.3975 113.3975 Z" style="fill:url(#rsplit11_4pat);stroke:none" />
-    <path id="rsplit11_5bg" d="M 163.3975 113.3975 L 213.3975 113.3975 L 188.3975 156.6987 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
-    <path id="rsplit11_5" d="M 163.3975 113.3975 L 213.3975 113.3975 L 188.3975 156.6987 Z" style="fill:url(#rsplit11_5pat);stroke:none" />
-    <path id="rsplit11_6bg" d="M 213.3975 113.3975 L 163.3975 113.3975 L 188.3975 70.0962 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
-    <path id="rsplit11_6" d="M 213.3975 113.3975 L 163.3975 113.3975 L 188.3975 70.0962 Z" style="fill:url(#rsplit11_6pat);stroke:none" />
-    <path id="rcutt13_1bg" d="M 113.3975 250.0000 L 156.6987 225.0000 L 113.3975 200.0000 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
-    <path id="rcutt13_1" d="M 113.3975 250.0000 L 156.6987 225.0000 L 113.3975 200.0000 Z" style="fill:url(#rcutt13_1pat);stroke:none" />
-    <path id="rcutt13_2bg" d="M 156.6987 225.0000 L 113.3975 250.0000 L 156.6987 275.0000 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
-    <path id="rcutt13_2" d="M 156.6987 225.0000 L 113.3975 250.0000 L 156.6987 275.0000 Z" style="fill:url(#rcutt13_2pat);stroke:none" />
-    <path id="rcutt13_3bg" d="M 156.6987 275.0000 L 200.0000 250.0000 L 156.6987 225.0000 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
-    <path id="rcutt13_3" d="M 156.6987 275.0000 L 200.0000 250.0000 L 156.6987 225.0000 Z" style="fill:url(#rcutt13_3pat);stroke:none" />
-    <path id="rcutt13_4bg" d="M 156.6987 225.0000 L 200.0000 250.0000 L 200.0000 200.0000 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
-    <path id="rcutt13_4" d="M 156.6987 225.0000 L 200.0000 250.0000 L 200.0000 200.0000 Z" style="fill:url(#rcutt13_4pat);stroke:none" />
-    <path id="rcuth13_1bg" d="M 200.0000 200.0000 L 156.6988 200.0000 L 156.6987 225.0000 Z" style="fill:#ffffff;stroke:#f08a1c;stroke-width:1.5;stroke-linejoin:round" />
-    <path id="rcuth13_1" d="M 200.0000 200.0000 L 156.6988 200.0000 L 156.6987 225.0000 Z" style="fill:url(#rcuth13_1pat);stroke:none" />
-    <path id="rcuth13_2bg" d="M 113.3975 200.0000 L 156.6988 200.0000 L 156.6987 225.0000 Z" style="fill:#ffffff;stroke:#f08a1c;stroke-width:1.5;stroke-linejoin:round" />
-    <path id="rcuth13_2" d="M 113.3975 200.0000 L 156.6988 200.0000 L 156.6987 225.0000 Z" style="fill:url(#rcuth13_2pat);stroke:none" />
+    <g id="pc_rcutt01_1">
+      <path id="rcutt01_1bg" d="M 250.0000 350.0000 L 200.0000 350.0000 L 225.0000 393.3013 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
+      <path id="rcutt01_1" d="M 250.0000 350.0000 L 200.0000 350.0000 L 225.0000 393.3013 Z" style="fill:url(#rcutt01_1pat);stroke:none" />
+    </g>
+    <g id="pc_rcutt01_2">
+      <path id="rcutt01_2bg" d="M 225.0000 393.3013 L 275.0000 393.3013 L 250.0000 350.0000 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
+      <path id="rcutt01_2" d="M 225.0000 393.3013 L 275.0000 393.3013 L 250.0000 350.0000 Z" style="fill:url(#rcutt01_2pat);stroke:none" />
+    </g>
+    <g id="pc_rcutt01_3">
+      <path id="rcutt01_3bg" d="M 300.0000 350.0000 L 250.0000 350.0000 L 275.0000 393.3013 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
+      <path id="rcutt01_3" d="M 300.0000 350.0000 L 250.0000 350.0000 L 275.0000 393.3013 Z" style="fill:url(#rcutt01_3pat);stroke:none" />
+    </g>
+    <g id="pc_rcutt01_4">
+      <path id="rcutt01_4bg" d="M 250.0000 350.0000 L 300.0000 350.0000 L 275.0000 306.6987 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
+      <path id="rcutt01_4" d="M 250.0000 350.0000 L 300.0000 350.0000 L 275.0000 306.6987 Z" style="fill:url(#rcutt01_4pat);stroke:none" />
+    </g>
+    <g id="pc_rcuth01_1">
+      <path id="rcuth01_1bg" d="M 275.0000 306.6987 L 237.5000 328.3493 L 250.0000 350.0000 Z" style="fill:#ffffff;stroke:#f08a1c;stroke-width:1.5;stroke-linejoin:round" />
+      <path id="rcuth01_1" d="M 275.0000 306.6987 L 237.5000 328.3493 L 250.0000 350.0000 Z" style="fill:url(#rcuth01_1pat);stroke:none" />
+    </g>
+    <g id="pc_rcuth01_2">
+      <path id="rcuth01_2bg" d="M 250.0000 350.0000 L 200.0000 350.0000 L 237.5000 328.3493 Z" style="fill:#ffffff;stroke:#f08a1c;stroke-width:1.5;stroke-linejoin:round" />
+      <path id="rcuth01_2" d="M 250.0000 350.0000 L 200.0000 350.0000 L 237.5000 328.3493 Z" style="fill:url(#rcuth01_2pat);stroke:none" />
+    </g>
+    <g id="pc_rcutt03_1">
+      <path id="rcutt03_1bg" d="M 350.0000 436.6025 L 393.3013 461.6025 L 393.3012 411.6025 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
+      <path id="rcutt03_1" d="M 350.0000 436.6025 L 393.3013 461.6025 L 393.3012 411.6025 Z" style="fill:url(#rcutt03_1pat);stroke:none" />
+    </g>
+    <g id="pc_rcutt03_2">
+      <path id="rcutt03_2bg" d="M 436.6025 436.6025 L 393.3012 411.6025 L 393.3013 461.6025 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
+      <path id="rcutt03_2" d="M 436.6025 436.6025 L 393.3012 411.6025 L 393.3013 461.6025 Z" style="fill:url(#rcutt03_2pat);stroke:none" />
+    </g>
+    <g id="pc_rcutt03_3">
+      <path id="rcutt03_3bg" d="M 393.3012 411.6025 L 436.6025 436.6025 L 436.6025 386.6025 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
+      <path id="rcutt03_3" d="M 393.3012 411.6025 L 436.6025 436.6025 L 436.6025 386.6025 Z" style="fill:url(#rcutt03_3pat);stroke:none" />
+    </g>
+    <g id="pc_rcutt03_4">
+      <path id="rcutt03_4bg" d="M 436.6025 386.6025 L 393.3012 361.6025 L 393.3012 411.6025 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
+      <path id="rcutt03_4" d="M 436.6025 386.6025 L 393.3012 361.6025 L 393.3012 411.6025 Z" style="fill:url(#rcutt03_4pat);stroke:none" />
+    </g>
+    <g id="pc_rcuth03_1">
+      <path id="rcuth03_1bg" d="M 371.6506 399.1025 L 393.3012 411.6025 L 393.3012 361.6025 Z" style="fill:#ffffff;stroke:#f08a1c;stroke-width:1.5;stroke-linejoin:round" />
+      <path id="rcuth03_1" d="M 371.6506 399.1025 L 393.3012 411.6025 L 393.3012 361.6025 Z" style="fill:url(#rcuth03_1pat);stroke:none" />
+    </g>
+    <g id="pc_rcuth03_2">
+      <path id="rcuth03_2bg" d="M 393.3012 411.6025 L 350.0000 436.6025 L 371.6506 399.1025 Z" style="fill:#ffffff;stroke:#f08a1c;stroke-width:1.5;stroke-linejoin:round" />
+      <path id="rcuth03_2" d="M 393.3012 411.6025 L 350.0000 436.6025 L 371.6506 399.1025 Z" style="fill:url(#rcuth03_2pat);stroke:none" />
+    </g>
+    <g id="pc_rsplit05_1">
+      <path id="rsplit05_1bg" d="M 486.6025 286.6025 L 436.6025 286.6025 L 461.6025 243.3013 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
+      <path id="rsplit05_1" d="M 486.6025 286.6025 L 436.6025 286.6025 L 461.6025 243.3013 Z" style="fill:url(#rsplit05_1pat);stroke:none" />
+    </g>
+    <g id="pc_rsplit05_2">
+      <path id="rsplit05_2bg" d="M 461.6025 243.3013 L 511.6025 243.3013 L 486.6025 286.6025 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
+      <path id="rsplit05_2" d="M 461.6025 243.3013 L 511.6025 243.3013 L 486.6025 286.6025 Z" style="fill:url(#rsplit05_2pat);stroke:none" />
+    </g>
+    <g id="pc_rsplit05_3">
+      <path id="rsplit05_3bg" d="M 536.6025 286.6025 L 486.6025 286.6025 L 511.6025 243.3013 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
+      <path id="rsplit05_3" d="M 536.6025 286.6025 L 486.6025 286.6025 L 511.6025 243.3013 Z" style="fill:url(#rsplit05_3pat);stroke:none" />
+    </g>
+    <g id="pc_rsplit05_4">
+      <path id="rsplit05_4bg" d="M 486.6025 286.6025 L 536.6025 286.6025 L 511.6025 329.9038 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
+      <path id="rsplit05_4" d="M 486.6025 286.6025 L 536.6025 286.6025 L 511.6025 329.9038 Z" style="fill:url(#rsplit05_4pat);stroke:none" />
+    </g>
+    <g id="pc_rsplit05_5">
+      <path id="rsplit05_5bg" d="M 511.6025 329.9038 L 461.6025 329.9038 L 486.6025 286.6025 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
+      <path id="rsplit05_5" d="M 511.6025 329.9038 L 461.6025 329.9038 L 486.6025 286.6025 Z" style="fill:url(#rsplit05_5pat);stroke:none" />
+    </g>
+    <g id="pc_rsplit05_6">
+      <path id="rsplit05_6bg" d="M 436.6025 286.6025 L 486.6025 286.6025 L 461.6025 329.9038 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
+      <path id="rsplit05_6" d="M 436.6025 286.6025 L 486.6025 286.6025 L 461.6025 329.9038 Z" style="fill:url(#rsplit05_6pat);stroke:none" />
+    </g>
+    <g id="pc_rcutt07_1">
+      <path id="rcutt07_1bg" d="M 586.6025 150.0000 L 543.3012 175.0000 L 586.6025 200.0000 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
+      <path id="rcutt07_1" d="M 586.6025 150.0000 L 543.3012 175.0000 L 586.6025 200.0000 Z" style="fill:url(#rcutt07_1pat);stroke:none" />
+    </g>
+    <g id="pc_rcutt07_2">
+      <path id="rcutt07_2bg" d="M 543.3012 175.0000 L 586.6025 150.0000 L 543.3013 125.0000 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
+      <path id="rcutt07_2" d="M 543.3012 175.0000 L 586.6025 150.0000 L 543.3013 125.0000 Z" style="fill:url(#rcutt07_2pat);stroke:none" />
+    </g>
+    <g id="pc_rcutt07_3">
+      <path id="rcutt07_3bg" d="M 543.3013 125.0000 L 500.0000 150.0000 L 543.3012 175.0000 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
+      <path id="rcutt07_3" d="M 543.3013 125.0000 L 500.0000 150.0000 L 543.3012 175.0000 Z" style="fill:url(#rcutt07_3pat);stroke:none" />
+    </g>
+    <g id="pc_rcutt07_4">
+      <path id="rcutt07_4bg" d="M 543.3012 175.0000 L 500.0000 150.0000 L 500.0000 200.0000 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
+      <path id="rcutt07_4" d="M 543.3012 175.0000 L 500.0000 150.0000 L 500.0000 200.0000 Z" style="fill:url(#rcutt07_4pat);stroke:none" />
+    </g>
+    <g id="pc_rcuth07_1">
+      <path id="rcuth07_1bg" d="M 500.0000 200.0000 L 543.3012 200.0000 L 543.3012 175.0000 Z" style="fill:#ffffff;stroke:#f08a1c;stroke-width:1.5;stroke-linejoin:round" />
+      <path id="rcuth07_1" d="M 500.0000 200.0000 L 543.3012 200.0000 L 543.3012 175.0000 Z" style="fill:url(#rcuth07_1pat);stroke:none" />
+    </g>
+    <g id="pc_rcuth07_2">
+      <path id="rcuth07_2bg" d="M 586.6025 200.0000 L 543.3012 200.0000 L 543.3012 175.0000 Z" style="fill:#ffffff;stroke:#f08a1c;stroke-width:1.5;stroke-linejoin:round" />
+      <path id="rcuth07_2" d="M 586.6025 200.0000 L 543.3012 200.0000 L 543.3012 175.0000 Z" style="fill:url(#rcuth07_2pat);stroke:none" />
+    </g>
+    <g id="pc_rsplit09_1">
+      <path id="rsplit09_1bg" d="M 388.3975 156.6987 L 338.3975 156.6987 L 363.3975 113.3975 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
+      <path id="rsplit09_1" d="M 388.3975 156.6987 L 338.3975 156.6987 L 363.3975 113.3975 Z" style="fill:url(#rsplit09_1pat);stroke:none" />
+    </g>
+    <g id="pc_rsplit09_2">
+      <path id="rsplit09_2bg" d="M 363.3975 113.3975 L 413.3975 113.3975 L 388.3975 156.6987 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
+      <path id="rsplit09_2" d="M 363.3975 113.3975 L 413.3975 113.3975 L 388.3975 156.6987 Z" style="fill:url(#rsplit09_2pat);stroke:none" />
+    </g>
+    <g id="pc_rsplit09_3">
+      <path id="rsplit09_3bg" d="M 438.3975 156.6987 L 388.3975 156.6987 L 413.3975 113.3975 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
+      <path id="rsplit09_3" d="M 438.3975 156.6987 L 388.3975 156.6987 L 413.3975 113.3975 Z" style="fill:url(#rsplit09_3pat);stroke:none" />
+    </g>
+    <g id="pc_rsplit09_4">
+      <path id="rsplit09_4bg" d="M 388.3975 156.6987 L 438.3975 156.6987 L 413.3975 200.0000 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
+      <path id="rsplit09_4" d="M 388.3975 156.6987 L 438.3975 156.6987 L 413.3975 200.0000 Z" style="fill:url(#rsplit09_4pat);stroke:none" />
+    </g>
+    <g id="pc_rsplit09_5">
+      <path id="rsplit09_5bg" d="M 413.3975 200.0000 L 363.3975 200.0000 L 388.3975 156.6987 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
+      <path id="rsplit09_5" d="M 413.3975 200.0000 L 363.3975 200.0000 L 388.3975 156.6987 Z" style="fill:url(#rsplit09_5pat);stroke:none" />
+    </g>
+    <g id="pc_rsplit09_6">
+      <path id="rsplit09_6bg" d="M 338.3975 156.6987 L 388.3975 156.6987 L 363.3975 200.0000 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
+      <path id="rsplit09_6" d="M 338.3975 156.6987 L 388.3975 156.6987 L 363.3975 200.0000 Z" style="fill:url(#rsplit09_6pat);stroke:none" />
+    </g>
+    <g id="pc_rsplit11_1">
+      <path id="rsplit11_1bg" d="M 188.3975 70.0962 L 238.3975 70.0962 L 213.3975 113.3975 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
+      <path id="rsplit11_1" d="M 188.3975 70.0962 L 238.3975 70.0962 L 213.3975 113.3975 Z" style="fill:url(#rsplit11_1pat);stroke:none" />
+    </g>
+    <g id="pc_rsplit11_2">
+      <path id="rsplit11_2bg" d="M 263.3975 113.3975 L 213.3975 113.3975 L 238.3975 70.0962 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
+      <path id="rsplit11_2" d="M 263.3975 113.3975 L 213.3975 113.3975 L 238.3975 70.0962 Z" style="fill:url(#rsplit11_2pat);stroke:none" />
+    </g>
+    <g id="pc_rsplit11_3">
+      <path id="rsplit11_3bg" d="M 213.3975 113.3975 L 263.3975 113.3975 L 238.3975 156.6987 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
+      <path id="rsplit11_3" d="M 213.3975 113.3975 L 263.3975 113.3975 L 238.3975 156.6987 Z" style="fill:url(#rsplit11_3pat);stroke:none" />
+    </g>
+    <g id="pc_rsplit11_4">
+      <path id="rsplit11_4bg" d="M 238.3975 156.6987 L 188.3975 156.6987 L 213.3975 113.3975 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
+      <path id="rsplit11_4" d="M 238.3975 156.6987 L 188.3975 156.6987 L 213.3975 113.3975 Z" style="fill:url(#rsplit11_4pat);stroke:none" />
+    </g>
+    <g id="pc_rsplit11_5">
+      <path id="rsplit11_5bg" d="M 163.3975 113.3975 L 213.3975 113.3975 L 188.3975 156.6987 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
+      <path id="rsplit11_5" d="M 163.3975 113.3975 L 213.3975 113.3975 L 188.3975 156.6987 Z" style="fill:url(#rsplit11_5pat);stroke:none" />
+    </g>
+    <g id="pc_rsplit11_6">
+      <path id="rsplit11_6bg" d="M 213.3975 113.3975 L 163.3975 113.3975 L 188.3975 70.0962 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
+      <path id="rsplit11_6" d="M 213.3975 113.3975 L 163.3975 113.3975 L 188.3975 70.0962 Z" style="fill:url(#rsplit11_6pat);stroke:none" />
+    </g>
+    <g id="pc_rcutt13_1">
+      <path id="rcutt13_1bg" d="M 113.3975 250.0000 L 156.6987 225.0000 L 113.3975 200.0000 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
+      <path id="rcutt13_1" d="M 113.3975 250.0000 L 156.6987 225.0000 L 113.3975 200.0000 Z" style="fill:url(#rcutt13_1pat);stroke:none" />
+    </g>
+    <g id="pc_rcutt13_2">
+      <path id="rcutt13_2bg" d="M 156.6987 225.0000 L 113.3975 250.0000 L 156.6987 275.0000 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
+      <path id="rcutt13_2" d="M 156.6987 225.0000 L 113.3975 250.0000 L 156.6987 275.0000 Z" style="fill:url(#rcutt13_2pat);stroke:none" />
+    </g>
+    <g id="pc_rcutt13_3">
+      <path id="rcutt13_3bg" d="M 156.6987 275.0000 L 200.0000 250.0000 L 156.6987 225.0000 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
+      <path id="rcutt13_3" d="M 156.6987 275.0000 L 200.0000 250.0000 L 156.6987 225.0000 Z" style="fill:url(#rcutt13_3pat);stroke:none" />
+    </g>
+    <g id="pc_rcutt13_4">
+      <path id="rcutt13_4bg" d="M 156.6987 225.0000 L 200.0000 250.0000 L 200.0000 200.0000 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
+      <path id="rcutt13_4" d="M 156.6987 225.0000 L 200.0000 250.0000 L 200.0000 200.0000 Z" style="fill:url(#rcutt13_4pat);stroke:none" />
+    </g>
+    <g id="pc_rcuth13_1">
+      <path id="rcuth13_1bg" d="M 200.0000 200.0000 L 156.6988 200.0000 L 156.6987 225.0000 Z" style="fill:#ffffff;stroke:#f08a1c;stroke-width:1.5;stroke-linejoin:round" />
+      <path id="rcuth13_1" d="M 200.0000 200.0000 L 156.6988 200.0000 L 156.6987 225.0000 Z" style="fill:url(#rcuth13_1pat);stroke:none" />
+    </g>
+    <g id="pc_rcuth13_2">
+      <path id="rcuth13_2bg" d="M 113.3975 200.0000 L 156.6988 200.0000 L 156.6987 225.0000 Z" style="fill:#ffffff;stroke:#f08a1c;stroke-width:1.5;stroke-linejoin:round" />
+      <path id="rcuth13_2" d="M 113.3975 200.0000 L 156.6988 200.0000 L 156.6987 225.0000 Z" style="fill:url(#rcuth13_2pat);stroke:none" />
+    </g>
     <g inkscape:groupmode="layer" inkscape:label="Centre pieces" id="centre">
       <defs id="centre_defs">
         <pattern id="ctri01pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(263.3975 142.2649) rotate(180.0000) translate(-5.55556 0)">
@@ -166,9 +250,6 @@
         <pattern id="ctri14pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(313.3975 171.1325) rotate(0.0000) translate(-5.55556 0)">
           <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" id="rect20" />
         </pattern>
-        <pattern id="ctri11pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(427.8312 225.0000) rotate(150.0000) translate(-5.55556 0)">
-          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" id="rect21" />
-        </pattern>
         <pattern id="ctri15pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(288.3975 185.5662) rotate(0.0000) translate(-5.55556 0)">
           <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" id="rect22" />
         </pattern>
@@ -190,274 +271,357 @@
         <pattern id="ctri20pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(378.8675 286.6025) rotate(150.0000) translate(-5.55556 0)">
           <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" id="rect28" />
         </pattern>
-        <pattern id="ctri21pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(352.8313 268.3013) rotate(90.0000) translate(-5.55556 0)">
+        <pattern id="ctri21pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(344.3376 268.3013) rotate(90.0000) translate(-5.55556 0)">
           <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" id="rect29" />
         </pattern>
         <pattern id="ctri22pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(422.1688 261.6025) rotate(90.0000) translate(-5.55556 0)">
           <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" id="rect30" />
         </pattern>
         <pattern id="chalf01pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(443.8194 257.4358) rotate(29.9999) translate(-5.55556 0)">
-          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#f08a1c;stroke:none" id="rect31" />
-        </pattern>
-        <pattern id="chalf02pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(485.5662 216.6667) rotate(90.0000) translate(-5.55556 0)">
-          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#f08a1c;stroke:none" id="rect32" />
+          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#f08a1c;stroke:none" />
         </pattern>
         <pattern id="chalf03pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(405.0642 228.8675) rotate(0.0000) translate(-5.55556 0)">
-          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#f08a1c;stroke:none" id="rect33" />
+          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#f08a1c;stroke:none" />
         </pattern>
         <pattern id="chalf04pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(519.9358 214.4338) rotate(0.0000) translate(-5.55556 0)">
-          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#f08a1c;stroke:none" id="rect34" />
+          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#f08a1c;stroke:none" />
         </pattern>
-        <pattern id="chalf05pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(367.2650 251.6346) rotate(90.0000) translate(-5.55556 0)">
-          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#f08a1c;stroke:none" id="rect35" />
+        <pattern id="chalf05pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(358.7713 251.6346) rotate(90.0000) translate(-5.55556 0)">
+          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#f08a1c;stroke:none" />
         </pattern>
-        <pattern id="chalf06pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(376.6346 361.6025) rotate(120.0000) translate(-5.55556 0)">
-          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#f08a1c;stroke:none" id="rect36" />
+        <pattern id="chalf06pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(370.8333 371.6506) rotate(120.0000) translate(-5.55556 0)">
+          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#f08a1c;stroke:none" />
         </pattern>
         <pattern id="chalf07pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(257.7350 208.3333) rotate(90.0000) translate(-5.55556 0)">
-          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#f08a1c;stroke:none" id="rect37" />
+          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#f08a1c;stroke:none" />
         </pattern>
         <pattern id="chalf08pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(315.4700 208.3333) rotate(90.0000) translate(-5.55556 0)">
-          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#f08a1c;stroke:none" id="rect38" />
+          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#f08a1c;stroke:none" />
         </pattern>
-        <pattern id="chalf09pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(342.7831 307.4358) rotate(150.0001) translate(-5.55556 0)">
-          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#f08a1c;stroke:none" id="rect39" />
+        <pattern id="chalf09pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(342.7831 320.8333) rotate(150.0001) translate(-5.55556 0)">
+          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#f08a1c;stroke:none" />
         </pattern>
         <pattern id="chalf10pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(310.5662 298.3654) rotate(90.0000) translate(-5.55556 0)">
-          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#f08a1c;stroke:none" id="rect40" />
+          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#f08a1c;stroke:none" />
         </pattern>
-        <pattern id="chalf11pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(346.7308 214.4338) rotate(0.0000) translate(-5.55556 0)">
-          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#f08a1c;stroke:none" id="rect41" />
+        <pattern id="chalf11pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(338.2371 214.4338) rotate(0.0000) translate(-5.55556 0)">
+          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#f08a1c;stroke:none" />
         </pattern>
         <pattern id="chalf12pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(228.8674 208.3333) rotate(90.0000) translate(-5.55556 0)">
-          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#f08a1c;stroke:none" id="rect42" />
+          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#f08a1c;stroke:none" />
         </pattern>
         <pattern id="rsplit05_1pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(461.6025 272.1688) rotate(0.0000) translate(-5.55556 0)">
-          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" id="rect43" />
+          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" />
         </pattern>
         <pattern id="rsplit05_2pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(486.6025 257.7350) rotate(0.0000) translate(-5.55556 0)">
-          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" id="rect44" />
+          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" />
         </pattern>
         <pattern id="rsplit05_3pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(511.6025 272.1688) rotate(180.0000) translate(-5.55556 0)">
-          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" id="rect45" />
+          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" />
         </pattern>
         <pattern id="rsplit05_4pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(511.6025 301.0363) rotate(180.0000) translate(-5.55556 0)">
-          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" id="rect46" />
+          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" />
         </pattern>
         <pattern id="rsplit05_5pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(486.6025 315.4700) rotate(0.0000) translate(-5.55556 0)">
-          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" id="rect47" />
+          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" />
         </pattern>
         <pattern id="rsplit05_6pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(461.6025 301.0363) rotate(0.0000) translate(-5.55556 0)">
-          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" id="rect48" />
+          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" />
         </pattern>
         <pattern id="rsplit09_1pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(363.3975 142.2650) rotate(0.0000) translate(-5.55556 0)">
-          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" id="rect49" />
+          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" />
         </pattern>
         <pattern id="rsplit09_2pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(388.3975 127.8312) rotate(0.0000) translate(-5.55556 0)">
-          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" id="rect50" />
+          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" />
         </pattern>
         <pattern id="rsplit09_3pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(413.3975 142.2650) rotate(180.0000) translate(-5.55556 0)">
-          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" id="rect51" />
+          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" />
         </pattern>
         <pattern id="rsplit09_4pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(413.3975 171.1325) rotate(180.0000) translate(-5.55556 0)">
-          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" id="rect52" />
+          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" />
         </pattern>
         <pattern id="rsplit09_5pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(388.3975 185.5662) rotate(0.0000) translate(-5.55556 0)">
-          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" id="rect53" />
+          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" />
         </pattern>
         <pattern id="rsplit09_6pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(363.3975 171.1325) rotate(0.0000) translate(-5.55556 0)">
-          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" id="rect54" />
+          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" />
         </pattern>
         <pattern id="rsplit11_1pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(213.3975 84.5300) rotate(0.0000) translate(-5.55556 0)">
-          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" id="rect55" />
+          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" />
         </pattern>
         <pattern id="rsplit11_2pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(238.3975 98.9637) rotate(0.0000) translate(-5.55556 0)">
-          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" id="rect56" />
+          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" />
         </pattern>
         <pattern id="rsplit11_3pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(238.3975 127.8312) rotate(0.0000) translate(-5.55556 0)">
-          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" id="rect57" />
+          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" />
         </pattern>
         <pattern id="rsplit11_4pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(213.3975 142.2650) rotate(0.0000) translate(-5.55556 0)">
-          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" id="rect58" />
+          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" />
         </pattern>
         <pattern id="rsplit11_5pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(188.3975 127.8312) rotate(180.0000) translate(-5.55556 0)">
-          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" id="rect59" />
+          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" />
         </pattern>
         <pattern id="rsplit11_6pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(188.3975 98.9637) rotate(180.0000) translate(-5.55556 0)">
-          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" id="rect60" />
+          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" />
         </pattern>
         <pattern id="rsplitc1_1pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(272.1688 225.0000) rotate(30.0000) translate(-5.55556 0)">
-          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" id="rect61" />
+          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" />
         </pattern>
         <pattern id="rsplitc1_2pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(301.0363 225.0000) rotate(30.0000) translate(-5.55556 0)">
-          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" id="rect62" />
+          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" />
         </pattern>
         <pattern id="rsplitc1_3pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(315.4700 250.0000) rotate(30.0000) translate(-5.55556 0)">
-          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" id="rect63" />
+          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" />
         </pattern>
         <pattern id="rsplitc1_4pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(301.0363 275.0000) rotate(150.0000) translate(-5.55556 0)">
-          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" id="rect64" />
+          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" />
         </pattern>
         <pattern id="rsplitc1_5pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(272.1688 275.0000) rotate(150.0000) translate(-5.55556 0)">
-          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" id="rect65" />
+          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" />
         </pattern>
         <pattern id="rsplitc1_6pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(257.7350 250.0000) rotate(30.0000) translate(-5.55556 0)">
-          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" id="rect66" />
+          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" />
         </pattern>
         <pattern id="rcutt01_1pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(225.0000 364.4338) rotate(0.0000) translate(-5.55556 0)">
-          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" id="rect67" />
+          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" />
         </pattern>
         <pattern id="rcutt01_2pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(250.0000 378.8675) rotate(0.0000) translate(-5.55556 0)">
-          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" id="rect68" />
+          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" />
         </pattern>
         <pattern id="rcutt01_3pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(275.0000 364.4338) rotate(0.0000) translate(-5.55556 0)">
-          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" id="rect69" />
+          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" />
         </pattern>
         <pattern id="rcutt01_4pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(275.0000 335.5662) rotate(0.0000) translate(-5.55556 0)">
-          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" id="rect70" />
+          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" />
         </pattern>
         <pattern id="rcuth01_1pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(254.1667 328.3493) rotate(150.0000) translate(-5.55556 0)">
-          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#f08a1c;stroke:none" id="rect71" />
+          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#f08a1c;stroke:none" />
         </pattern>
         <pattern id="rcuth01_2pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(229.1667 342.7831) rotate(0.0000) translate(-5.55556 0)">
-          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#f08a1c;stroke:none" id="rect72" />
+          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#f08a1c;stroke:none" />
         </pattern>
         <pattern id="rcutt03_1pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(378.8675 436.6025) rotate(30.0000) translate(-5.55556 0)">
-          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" id="rect73" />
+          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" />
         </pattern>
         <pattern id="rcutt03_2pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(407.7350 436.6025) rotate(30.0000) translate(-5.55556 0)">
-          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" id="rect74" />
+          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" />
         </pattern>
         <pattern id="rcutt03_3pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(422.1687 411.6025) rotate(30.0000) translate(-5.55556 0)">
-          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" id="rect75" />
+          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" />
         </pattern>
         <pattern id="rcutt03_4pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(407.7350 386.6025) rotate(30.0000) translate(-5.55556 0)">
-          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" id="rect76" />
+          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" />
         </pattern>
         <pattern id="rcuth03_1pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(386.0844 390.7692) rotate(30.0000) translate(-5.55556 0)">
-          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#f08a1c;stroke:none" id="rect77" />
+          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#f08a1c;stroke:none" />
         </pattern>
         <pattern id="rcuth03_2pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(371.6506 415.7692) rotate(150.0000) translate(-5.55556 0)">
-          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#f08a1c;stroke:none" id="rect78" />
+          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#f08a1c;stroke:none" />
         </pattern>
         <pattern id="rcutt07_1pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(572.1687 175.0000) rotate(150.0000) translate(-5.55556 0)">
-          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" id="rect79" />
+          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" />
         </pattern>
         <pattern id="rcutt07_2pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(557.7350 150.0000) rotate(150.0000) translate(-5.55556 0)">
-          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" id="rect80" />
+          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" />
         </pattern>
         <pattern id="rcutt07_3pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(528.8675 150.0000) rotate(150.0000) translate(-5.55556 0)">
-          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" id="rect81" />
+          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" />
         </pattern>
         <pattern id="rcutt07_4pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(514.4338 175.0000) rotate(30.0000) translate(-5.55556 0)">
-          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" id="rect82" />
+          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" />
         </pattern>
         <pattern id="rcuth07_1pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(528.8675 191.6667) rotate(0.0000) translate(-5.55556 0)">
-          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#f08a1c;stroke:none" id="rect83" />
+          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#f08a1c;stroke:none" />
         </pattern>
         <pattern id="rcuth07_2pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(557.7350 191.6667) rotate(0.0000) translate(-5.55556 0)">
-          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#f08a1c;stroke:none" id="rect84" />
+          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#f08a1c;stroke:none" />
         </pattern>
         <pattern id="rcutt13_1pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(127.8312 225.0000) rotate(150.0000) translate(-5.55556 0)">
-          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" id="rect85" />
+          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" />
         </pattern>
         <pattern id="rcutt13_2pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(142.2650 250.0000) rotate(150.0000) translate(-5.55556 0)">
-          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" id="rect86" />
+          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" />
         </pattern>
         <pattern id="rcutt13_3pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(171.1325 250.0000) rotate(150.0000) translate(-5.55556 0)">
-          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" id="rect87" />
+          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" />
         </pattern>
         <pattern id="rcutt13_4pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(185.5662 225.0000) rotate(30.0000) translate(-5.55556 0)">
-          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" id="rect88" />
+          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" />
         </pattern>
         <pattern id="rcuth13_1pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(171.1325 208.3333) rotate(0.0000) translate(-5.55556 0)">
-          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#f08a1c;stroke:none" id="rect89" />
+          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#f08a1c;stroke:none" />
         </pattern>
         <pattern id="rcuth13_2pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(142.2650 208.3333) rotate(0.0000) translate(-5.55556 0)">
-          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#f08a1c;stroke:none" id="rect90" />
+          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#f08a1c;stroke:none" />
         </pattern>
-      </defs>
-      <path id="ctri01bg" d="M 238.3975 156.6987 L 288.3975 156.6987 L 263.3975 113.3974 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
-      <path id="ctri01" d="M 238.3975 156.6987 L 288.3975 156.6987 L 263.3975 113.3974 Z" style="fill:url(#ctri01pat);stroke:none" />
-      <path id="ctri02bg" d="M 188.3975 156.6987 L 238.3975 156.6987 L 213.3975 200.0000 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
-      <path id="ctri02" d="M 188.3975 156.6987 L 238.3975 156.6987 L 213.3975 200.0000 Z" style="fill:url(#ctri02pat);stroke:none" />
-      <path id="ctri03bg" d="M 213.3975 200.0000 L 163.3975 200.0000 L 188.3975 156.6987 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
-      <path id="ctri03" d="M 213.3975 200.0000 L 163.3975 200.0000 L 188.3975 156.6987 Z" style="fill:url(#ctri03pat);stroke:none" />
-      <path id="ctri04bg" d="M 243.3013 225.0000 L 200.0000 200.0000 L 200.0000 250.0000 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
-      <path id="ctri04" d="M 243.3013 225.0000 L 200.0000 200.0000 L 200.0000 250.0000 Z" style="fill:url(#ctri04pat);stroke:none" />
-      <path id="ctri05bg" d="M 200.0000 250.0000 L 243.3013 275.0000 L 243.3013 225.0000 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
-      <path id="ctri05" d="M 200.0000 250.0000 L 243.3013 275.0000 L 243.3013 225.0000 Z" style="fill:url(#ctri05pat);stroke:none" />
-      <path id="ctri06bg" d="M 286.6026 300.0000 L 243.3013 275.0000 L 243.3013 325.0000 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
-      <path id="ctri06" d="M 286.6026 300.0000 L 243.3013 275.0000 L 243.3013 325.0000 Z" style="fill:url(#ctri06pat);stroke:none" />
-      <path id="ctri07bg" d="M 325.0000 306.6987 L 275.0000 306.6987 L 300.0000 350.0000 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
-      <path id="ctri07" d="M 325.0000 306.6987 L 275.0000 306.6987 L 300.0000 350.0000 Z" style="fill:url(#ctri07pat);stroke:none" />
-      <path id="ctri08bg" d="M 300.0000 350.0000 L 350.0000 350.0000 L 325.0000 306.6987 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
-      <path id="ctri08" d="M 300.0000 350.0000 L 350.0000 350.0000 L 325.0000 306.6987 Z" style="fill:url(#ctri08pat);stroke:none" />
-      <path id="ctri09bg" d="M 350.0000 336.6025 L 393.3013 311.6025 L 393.3013 361.6025 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
-      <path id="ctri09" d="M 350.0000 336.6025 L 393.3013 311.6025 L 393.3013 361.6025 Z" style="fill:url(#ctri09pat);stroke:none" />
-      <path id="ctri10bg" d="M 436.6025 286.6025 L 393.3013 261.6026 L 393.3013 311.6025 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
-      <path id="ctri10" d="M 436.6025 286.6025 L 393.3013 261.6026 L 393.3013 311.6025 Z" style="fill:url(#ctri10pat);stroke:none" />
-      <path id="ctri12bg" d="M 363.3975 200.0000 L 413.3975 200.0000 L 388.3975 243.3013 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
-      <path id="ctri12" d="M 363.3975 200.0000 L 413.3975 200.0000 L 388.3975 243.3013 Z" style="fill:url(#ctri12pat);stroke:none" />
-      <path id="ctri13bg" d="M 313.3975 200.0000 L 363.3975 200.0000 L 338.3975 156.6987 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
-      <path id="ctri13" d="M 313.3975 200.0000 L 363.3975 200.0000 L 338.3975 156.6987 Z" style="fill:url(#ctri13pat);stroke:none" />
-      <path id="ctri14bg" d="M 288.3975 156.6987 L 338.3975 156.6987 L 313.3975 200.0000 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
-      <path id="ctri14" d="M 288.3975 156.6987 L 338.3975 156.6987 L 313.3975 200.0000 Z" style="fill:url(#ctri14pat);stroke:none" />
-      <path id="ctri11bg" d="M 456.6987 225.0000 L 413.3975 250.0000 L 413.3975 200.0000 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
-      <path id="ctri11" d="M 456.6987 225.0000 L 413.3975 250.0000 L 413.3975 200.0000 Z" style="fill:url(#ctri11pat);stroke:none" />
-      <path id="ctri15bg" d="M 263.3975 200.0000 L 313.3975 200.0000 L 288.3975 156.6987 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
-      <path id="ctri15" d="M 263.3975 200.0000 L 313.3975 200.0000 L 288.3975 156.6987 Z" style="fill:url(#ctri15pat);stroke:none" />
-      <path id="ctri16bg" d="M 238.3975 156.6987 L 288.3975 156.6987 L 263.3975 200.0000 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
-      <path id="ctri16" d="M 238.3975 156.6987 L 288.3975 156.6987 L 263.3975 200.0000 Z" style="fill:url(#ctri16pat);stroke:none" />
-      <path id="ctri17bg" d="M 338.3975 243.3013 L 388.3975 243.3013 L 363.3975 200.0000 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
-      <path id="ctri17" d="M 338.3975 243.3013 L 388.3975 243.3013 L 363.3975 200.0000 Z" style="fill:url(#ctri17pat);stroke:none" />
-      <path id="ctri18bg" d="M 213.3975 200.0000 L 263.3975 200.0000 L 238.3975 156.6987 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
-      <path id="ctri18" d="M 213.3975 200.0000 L 263.3975 200.0000 L 238.3975 156.6987 Z" style="fill:url(#ctri18pat);stroke:none" />
-      <path id="rsplitc1_1bg" d="M 286.6025 250.0000 L 243.3013 225.0000 L 286.6025 200.0000 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
-      <path id="rsplitc1_1" d="M 286.6025 250.0000 L 243.3013 225.0000 L 286.6025 200.0000 Z" style="fill:url(#rsplitc1_1pat);stroke:none" />
-      <path id="rsplitc1_2bg" d="M 286.6025 200.0000 L 329.9038 225.0000 L 286.6025 250.0000 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
-      <path id="rsplitc1_2" d="M 286.6025 200.0000 L 329.9038 225.0000 L 286.6025 250.0000 Z" style="fill:url(#rsplitc1_2pat);stroke:none" />
-      <path id="rsplitc1_3bg" d="M 329.9038 275.0000 L 286.6025 250.0000 L 329.9038 225.0000 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
-      <path id="rsplitc1_3" d="M 329.9038 275.0000 L 286.6025 250.0000 L 329.9038 225.0000 Z" style="fill:url(#rsplitc1_3pat);stroke:none" />
-      <path id="rsplitc1_4bg" d="M 329.9038 275.0000 L 286.6025 300.0000 L 286.6025 250.0000 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
-      <path id="rsplitc1_4" d="M 329.9038 275.0000 L 286.6025 300.0000 L 286.6025 250.0000 Z" style="fill:url(#rsplitc1_4pat);stroke:none" />
-      <path id="rsplitc1_5bg" d="M 243.3013 275.0000 L 286.6025 250.0000 L 286.6025 300.0000 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
-      <path id="rsplitc1_5" d="M 243.3013 275.0000 L 286.6025 250.0000 L 286.6025 300.0000 Z" style="fill:url(#rsplitc1_5pat);stroke:none" />
-      <path id="rsplitc1_6bg" d="M 243.3013 225.0000 L 286.6025 250.0000 L 243.3013 275.0000 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
-      <path id="rsplitc1_6" d="M 243.3013 225.0000 L 286.6025 250.0000 L 243.3013 275.0000 Z" style="fill:url(#rsplitc1_6pat);stroke:none" />
-      <path id="ctri19bg" d="M 350.0000 336.6025 L 393.3013 311.6025 L 350.0000 286.6025 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
-      <path id="ctri19" d="M 350.0000 336.6025 L 393.3013 311.6025 L 350.0000 286.6025 Z" style="fill:url(#ctri19pat);stroke:none" />
-      <path id="ctri20bg" d="M 350.0000 286.6025 L 393.3013 261.6025 L 393.3013 311.6025 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
-      <path id="ctri20" d="M 350.0000 286.6025 L 393.3013 261.6025 L 393.3013 311.6025 Z" style="fill:url(#ctri20pat);stroke:none" />
-      <path id="ctri21bg" d="M 338.3975 243.3013 L 338.3975 293.3013 L 381.6988 268.3013 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
-      <path id="ctri21" d="M 338.3975 243.3013 L 338.3975 293.3013 L 381.6988 268.3013 Z" style="fill:url(#ctri21pat);stroke:none" />
-      <path id="ctri22bg" d="M 436.6025 286.6025 L 436.6025 236.6025 L 393.3013 261.6025 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
-      <path id="ctri22" d="M 436.6025 286.6025 L 436.6025 236.6025 L 393.3013 261.6025 Z" style="fill:url(#ctri22pat);stroke:none" />
-      <path id="chalf01bg" d="M 458.2532 249.1025 L 436.6025 236.6025 L 436.6025 286.6025 Z" style="fill:#ffffff;stroke:#f08a1c;stroke-width:1.5;stroke-linejoin:round" />
-      <path id="chalf01" d="M 458.2532 249.1025 L 436.6025 236.6025 L 436.6025 286.6025 Z" style="fill:url(#chalf01pat);stroke:none" />
-      <path id="chalf02bg" d="M 500.0000 225.0000 L 500.0000 200.0000 L 456.6987 225.0000 Z" style="fill:#ffffff;stroke:#f08a1c;stroke-width:1.5;stroke-linejoin:round" />
-      <path id="chalf02" d="M 500.0000 225.0000 L 500.0000 200.0000 L 456.6987 225.0000 Z" style="fill:url(#chalf02pat);stroke:none" />
-      <path id="chalf03bg" d="M 413.3975 243.3013 L 388.3975 243.3013 L 413.3975 200.0000 Z" style="fill:#ffffff;stroke:#f08a1c;stroke-width:1.5;stroke-linejoin:round" />
-      <path id="chalf03" d="M 413.3975 243.3013 L 388.3975 243.3013 L 413.3975 200.0000 Z" style="fill:url(#chalf03pat);stroke:none" />
-      <path id="chalf04bg" d="M 511.6025 200.0000 L 536.6025 200.0000 L 511.6025 243.3013 Z" style="fill:#ffffff;stroke:#f08a1c;stroke-width:1.5;stroke-linejoin:round" />
-      <path id="chalf04" d="M 511.6025 200.0000 L 536.6025 200.0000 L 511.6025 243.3013 Z" style="fill:url(#chalf04pat);stroke:none" />
-      <path id="chalf05bg" d="M 381.6988 243.3013 L 381.6988 268.3013 L 338.3975 243.3013 Z" style="fill:#ffffff;stroke:#f08a1c;stroke-width:1.5;stroke-linejoin:round" />
-      <path id="chalf05" d="M 381.6988 243.3013 L 381.6988 268.3013 L 338.3975 243.3013 Z" style="fill:url(#chalf05pat);stroke:none" />
-      <path id="chalf06bg" d="M 393.3013 361.6025 L 380.8013 383.2531 L 355.8013 339.9519 Z" style="fill:#ffffff;stroke:#f08a1c;stroke-width:1.5;stroke-linejoin:round" />
-      <path id="chalf06" d="M 393.3013 361.6025 L 380.8013 383.2531 L 355.8013 339.9519 Z" style="fill:url(#chalf06pat);stroke:none" />
-      <path id="chalf07bg" d="M 243.3012 200.0000 L 243.3012 225.0000 L 286.6025 200.0000 Z" style="fill:#ffffff;stroke:#f08a1c;stroke-width:1.5;stroke-linejoin:round" />
-      <path id="chalf07" d="M 243.3012 200.0000 L 243.3012 225.0000 L 286.6025 200.0000 Z" style="fill:url(#chalf07pat);stroke:none" />
-      <path id="chalf08bg" d="M 329.9038 200.0000 L 329.9038 225.0000 L 286.6025 200.0000 Z" style="fill:#ffffff;stroke:#f08a1c;stroke-width:1.5;stroke-linejoin:round" />
-      <path id="chalf08" d="M 329.9038 200.0000 L 329.9038 225.0000 L 286.6025 200.0000 Z" style="fill:url(#chalf08pat);stroke:none" />
-      <path id="chalf09bg" d="M 328.3493 299.1025 L 350.0000 286.6025 L 350.0000 336.6025 Z" style="fill:#ffffff;stroke:#f08a1c;stroke-width:1.5;stroke-linejoin:round" />
-      <path id="chalf09" d="M 328.3493 299.1025 L 350.0000 286.6025 L 350.0000 336.6025 Z" style="fill:url(#chalf09pat);stroke:none" />
-      <path id="chalf10bg" d="M 325.0000 306.6987 L 325.0000 281.6987 L 281.6987 306.6987 Z" style="fill:#ffffff;stroke:#f08a1c;stroke-width:1.5;stroke-linejoin:round" />
-      <path id="chalf10" d="M 325.0000 306.6987 L 325.0000 281.6987 L 281.6987 306.6987 Z" style="fill:url(#chalf10pat);stroke:none" />
-      <path id="chalf11bg" d="M 338.3975 200.0000 L 363.3975 200.0000 L 338.3975 243.3013 Z" style="fill:#ffffff;stroke:#f08a1c;stroke-width:1.5;stroke-linejoin:round" />
-      <path id="chalf11" d="M 338.3975 200.0000 L 363.3975 200.0000 L 338.3975 243.3013 Z" style="fill:url(#chalf11pat);stroke:none" />
-      <path id="chalf12bg" d="M 243.3012 200.0000 L 243.3012 225.0000 L 199.9999 200.0000 Z" style="fill:#ffffff;stroke:#f08a1c;stroke-width:1.5;stroke-linejoin:round" />
-      <path id="chalf12" d="M 243.3012 200.0000 L 243.3012 225.0000 L 199.9999 200.0000 Z" style="fill:url(#chalf12pat);stroke:none" />
-    </g>
+        <pattern id="chalf13pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(479.1667 221.6506) rotate(150.0000) translate(-5.55556 0)">
+          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#f08a1c;stroke:none" />
+        </pattern>
+        <pattern id="chalf14pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(491.6667 228.8675) rotate(0.0000) translate(-5.55556 0)">
+          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#f08a1c;stroke:none" />
+        </pattern>
+      <pattern id="chalf15pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(387.6388 251.6346) rotate(90.0000) translate(-5.55556 0)"><rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#f08a1c;stroke:none" /></pattern><pattern id="chalf16pat" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(427.8312 216.6667) rotate(0.0000) translate(-5.55556 0)"><rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#f08a1c;stroke:none" /></pattern></defs>
+      <g id="pc_ctri01">
+        <path id="ctri01bg" d="M 238.3975 156.6987 L 288.3975 156.6987 L 263.3975 113.3974 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
+        <path id="ctri01" d="M 238.3975 156.6987 L 288.3975 156.6987 L 263.3975 113.3974 Z" style="fill:url(#ctri01pat);stroke:none" />
+      </g>
+      <g id="pc_ctri02">
+        <path id="ctri02bg" d="M 188.3975 156.6987 L 238.3975 156.6987 L 213.3975 200.0000 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
+        <path id="ctri02" d="M 188.3975 156.6987 L 238.3975 156.6987 L 213.3975 200.0000 Z" style="fill:url(#ctri02pat);stroke:none" />
+      </g>
+      <g id="pc_ctri03">
+        <path id="ctri03bg" d="M 213.3975 200.0000 L 163.3975 200.0000 L 188.3975 156.6987 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
+        <path id="ctri03" d="M 213.3975 200.0000 L 163.3975 200.0000 L 188.3975 156.6987 Z" style="fill:url(#ctri03pat);stroke:none" />
+      </g>
+      <g id="pc_ctri04">
+        <path id="ctri04bg" d="M 243.3013 225.0000 L 200.0000 200.0000 L 200.0000 250.0000 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
+        <path id="ctri04" d="M 243.3013 225.0000 L 200.0000 200.0000 L 200.0000 250.0000 Z" style="fill:url(#ctri04pat);stroke:none" />
+      </g>
+      <g id="pc_ctri05">
+        <path id="ctri05bg" d="M 200.0000 250.0000 L 243.3013 275.0000 L 243.3013 225.0000 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
+        <path id="ctri05" d="M 200.0000 250.0000 L 243.3013 275.0000 L 243.3013 225.0000 Z" style="fill:url(#ctri05pat);stroke:none" />
+      </g>
+      <g id="pc_ctri06">
+        <path id="ctri06bg" d="M 286.6026 300.0000 L 243.3013 275.0000 L 243.3013 325.0000 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
+        <path id="ctri06" d="M 286.6026 300.0000 L 243.3013 275.0000 L 243.3013 325.0000 Z" style="fill:url(#ctri06pat);stroke:none" />
+      </g>
+      <g id="pc_ctri07">
+        <path id="ctri07bg" d="M 325.0000 306.6987 L 275.0000 306.6987 L 300.0000 350.0000 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
+        <path id="ctri07" d="M 325.0000 306.6987 L 275.0000 306.6987 L 300.0000 350.0000 Z" style="fill:url(#ctri07pat);stroke:none" />
+      </g>
+      <g id="pc_ctri08">
+        <path id="ctri08bg" d="M 300.0000 350.0000 L 350.0000 350.0000 L 325.0000 306.6987 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
+        <path id="ctri08" d="M 300.0000 350.0000 L 350.0000 350.0000 L 325.0000 306.6987 Z" style="fill:url(#ctri08pat);stroke:none" />
+      </g>
+      <g id="pc_ctri09">
+        <path id="ctri09bg" d="M 350.0000 336.6025 L 393.3013 311.6025 L 393.3013 361.6025 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
+        <path id="ctri09" d="M 350.0000 336.6025 L 393.3013 311.6025 L 393.3013 361.6025 Z" style="fill:url(#ctri09pat);stroke:none" />
+      </g>
+      <g id="pc_ctri10">
+        <path id="ctri10bg" d="M 436.6025 286.6025 L 393.3013 261.6026 L 393.3013 311.6025 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
+        <path id="ctri10" d="M 436.6025 286.6025 L 393.3013 261.6026 L 393.3013 311.6025 Z" style="fill:url(#ctri10pat);stroke:none" />
+      </g>
+      <g id="pc_ctri12">
+        <path id="ctri12bg" d="M 363.3975 200.0000 L 413.3975 200.0000 L 388.3975 243.3013 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
+        <path id="ctri12" d="M 363.3975 200.0000 L 413.3975 200.0000 L 388.3975 243.3013 Z" style="fill:url(#ctri12pat);stroke:none" />
+      </g>
+      <g id="pc_ctri13">
+        <path id="ctri13bg" d="M 313.3975 200.0000 L 363.3975 200.0000 L 338.3975 156.6987 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
+        <path id="ctri13" d="M 313.3975 200.0000 L 363.3975 200.0000 L 338.3975 156.6987 Z" style="fill:url(#ctri13pat);stroke:none" />
+      </g>
+      <g id="pc_ctri14">
+        <path id="ctri14bg" d="M 288.3975 156.6987 L 338.3975 156.6987 L 313.3975 200.0000 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
+        <path id="ctri14" d="M 288.3975 156.6987 L 338.3975 156.6987 L 313.3975 200.0000 Z" style="fill:url(#ctri14pat);stroke:none" />
+      </g>
+      <g id="pc_ctri15">
+        <path id="ctri15bg" d="M 263.3975 200.0000 L 313.3975 200.0000 L 288.3975 156.6987 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
+        <path id="ctri15" d="M 263.3975 200.0000 L 313.3975 200.0000 L 288.3975 156.6987 Z" style="fill:url(#ctri15pat);stroke:none" />
+      </g>
+      <g id="pc_ctri16">
+        <path id="ctri16bg" d="M 238.3975 156.6987 L 288.3975 156.6987 L 263.3975 200.0000 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
+        <path id="ctri16" d="M 238.3975 156.6987 L 288.3975 156.6987 L 263.3975 200.0000 Z" style="fill:url(#ctri16pat);stroke:none" />
+      </g>
+      <g id="pc_ctri17">
+        <path id="ctri17bg" d="M 338.3975 243.3013 L 388.3975 243.3013 L 363.3975 200.0000 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
+        <path id="ctri17" d="M 338.3975 243.3013 L 388.3975 243.3013 L 363.3975 200.0000 Z" style="fill:url(#ctri17pat);stroke:none" />
+      </g>
+      <g id="pc_ctri18">
+        <path id="ctri18bg" d="M 213.3975 200.0000 L 263.3975 200.0000 L 238.3975 156.6987 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
+        <path id="ctri18" d="M 213.3975 200.0000 L 263.3975 200.0000 L 238.3975 156.6987 Z" style="fill:url(#ctri18pat);stroke:none" />
+      </g>
+      <g id="pc_rsplitc1_1">
+        <path id="rsplitc1_1bg" d="M 286.6025 250.0000 L 243.3013 225.0000 L 286.6025 200.0000 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
+        <path id="rsplitc1_1" d="M 286.6025 250.0000 L 243.3013 225.0000 L 286.6025 200.0000 Z" style="fill:url(#rsplitc1_1pat);stroke:none" />
+      </g>
+      <g id="pc_rsplitc1_2">
+        <path id="rsplitc1_2bg" d="M 286.6025 200.0000 L 329.9038 225.0000 L 286.6025 250.0000 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
+        <path id="rsplitc1_2" d="M 286.6025 200.0000 L 329.9038 225.0000 L 286.6025 250.0000 Z" style="fill:url(#rsplitc1_2pat);stroke:none" />
+      </g>
+      <g id="pc_rsplitc1_3">
+        <path id="rsplitc1_3bg" d="M 329.9038 275.0000 L 286.6025 250.0000 L 329.9038 225.0000 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
+        <path id="rsplitc1_3" d="M 329.9038 275.0000 L 286.6025 250.0000 L 329.9038 225.0000 Z" style="fill:url(#rsplitc1_3pat);stroke:none" />
+      </g>
+      <g id="pc_rsplitc1_4">
+        <path id="rsplitc1_4bg" d="M 329.9038 275.0000 L 286.6025 300.0000 L 286.6025 250.0000 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
+        <path id="rsplitc1_4" d="M 329.9038 275.0000 L 286.6025 300.0000 L 286.6025 250.0000 Z" style="fill:url(#rsplitc1_4pat);stroke:none" />
+      </g>
+      <g id="pc_rsplitc1_5">
+        <path id="rsplitc1_5bg" d="M 243.3013 275.0000 L 286.6025 250.0000 L 286.6025 300.0000 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
+        <path id="rsplitc1_5" d="M 243.3013 275.0000 L 286.6025 250.0000 L 286.6025 300.0000 Z" style="fill:url(#rsplitc1_5pat);stroke:none" />
+      </g>
+      <g id="pc_rsplitc1_6">
+        <path id="rsplitc1_6bg" d="M 243.3013 225.0000 L 286.6025 250.0000 L 243.3013 275.0000 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
+        <path id="rsplitc1_6" d="M 243.3013 225.0000 L 286.6025 250.0000 L 243.3013 275.0000 Z" style="fill:url(#rsplitc1_6pat);stroke:none" />
+      </g>
+      <g id="pc_ctri19">
+        <path id="ctri19bg" d="M 350.0000 336.6025 L 393.3013 311.6025 L 350.0000 286.6025 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
+        <path id="ctri19" d="M 350.0000 336.6025 L 393.3013 311.6025 L 350.0000 286.6025 Z" style="fill:url(#ctri19pat);stroke:none" />
+      </g>
+      <g id="pc_ctri20">
+        <path id="ctri20bg" d="M 350.0000 286.6025 L 393.3013 261.6025 L 393.3013 311.6025 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
+        <path id="ctri20" d="M 350.0000 286.6025 L 393.3013 261.6025 L 393.3013 311.6025 Z" style="fill:url(#ctri20pat);stroke:none" />
+      </g>
+      <g id="pc_ctri21">
+        <path id="ctri21bg" d="M 329.9038 243.3013 L 329.9038 293.3013 L 373.2051 268.3013 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
+        <path id="ctri21" d="M 329.9038 243.3013 L 329.9038 293.3013 L 373.2051 268.3013 Z" style="fill:url(#ctri21pat);stroke:none" />
+      </g>
+      <g id="pc_ctri22">
+        <path id="ctri22bg" d="M 436.6025 286.6025 L 436.6025 236.6025 L 393.3013 261.6025 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
+        <path id="ctri22" d="M 436.6025 286.6025 L 436.6025 236.6025 L 393.3013 261.6025 Z" style="fill:url(#ctri22pat);stroke:none" />
+      </g>
+      <g id="pc_chalf01">
+        <path id="chalf01bg" d="M 458.2532 249.1025 L 436.6025 236.6025 L 436.6025 286.6025 Z" style="fill:#ffffff;stroke:#f08a1c;stroke-width:1.5;stroke-linejoin:round" />
+        <path id="chalf01" d="M 458.2532 249.1025 L 436.6025 236.6025 L 436.6025 286.6025 Z" style="fill:url(#chalf01pat);stroke:none" />
+      </g>
+      <g id="pc_chalf03">
+        <path id="chalf03bg" d="M 413.3975 243.3013 L 388.3975 243.3013 L 413.3975 200.0000 Z" style="fill:#ffffff;stroke:#f08a1c;stroke-width:1.5;stroke-linejoin:round" />
+        <path id="chalf03" d="M 413.3975 243.3013 L 388.3975 243.3013 L 413.3975 200.0000 Z" style="fill:url(#chalf03pat);stroke:none" />
+      </g>
+      <g id="pc_chalf04">
+        <path id="chalf04bg" d="M 511.6025 200.0000 L 536.6025 200.0000 L 511.6025 243.3013 Z" style="fill:#ffffff;stroke:#f08a1c;stroke-width:1.5;stroke-linejoin:round" />
+        <path id="chalf04" d="M 511.6025 200.0000 L 536.6025 200.0000 L 511.6025 243.3013 Z" style="fill:url(#chalf04pat);stroke:none" />
+      </g>
+      <g id="pc_chalf05">
+        <path id="chalf05bg" d="M 373.2051 243.3013 L 373.2051 268.3013 L 329.9038 243.3013 Z" style="fill:#ffffff;stroke:#f08a1c;stroke-width:1.5;stroke-linejoin:round" />
+        <path id="chalf05" d="M 373.2051 243.3013 L 373.2051 268.3013 L 329.9038 243.3013 Z" style="fill:url(#chalf05pat);stroke:none" />
+      </g>
+      <g id="pc_chalf06">
+        <path id="chalf06bg" d="M 387.5000 371.6506 L 375.0000 393.3013 L 350.0000 350.0000 Z" style="fill:#ffffff;stroke:#f08a1c;stroke-width:1.5;stroke-linejoin:round" />
+        <path id="chalf06" d="M 387.5000 371.6506 L 375.0000 393.3013 L 350.0000 350.0000 Z" style="fill:url(#chalf06pat);stroke:none" />
+      </g>
+      <g id="pc_chalf07">
+        <path id="chalf07bg" d="M 243.3012 200.0000 L 243.3012 225.0000 L 286.6025 200.0000 Z" style="fill:#ffffff;stroke:#f08a1c;stroke-width:1.5;stroke-linejoin:round" />
+        <path id="chalf07" d="M 243.3012 200.0000 L 243.3012 225.0000 L 286.6025 200.0000 Z" style="fill:url(#chalf07pat);stroke:none" />
+      </g>
+      <g id="pc_chalf08">
+        <path id="chalf08bg" d="M 329.9038 200.0000 L 329.9038 225.0000 L 286.6025 200.0000 Z" style="fill:#ffffff;stroke:#f08a1c;stroke-width:1.5;stroke-linejoin:round" />
+        <path id="chalf08" d="M 329.9038 200.0000 L 329.9038 225.0000 L 286.6025 200.0000 Z" style="fill:url(#chalf08pat);stroke:none" />
+      </g>
+      <g id="pc_chalf09">
+        <path id="chalf09bg" d="M 328.3494 312.5000 L 350.0000 300.0000 L 350.0000 350.0000 Z" style="fill:#ffffff;stroke:#f08a1c;stroke-width:1.5;stroke-linejoin:round" />
+        <path id="chalf09" d="M 328.3494 312.5000 L 350.0000 300.0000 L 350.0000 350.0000 Z" style="fill:url(#chalf09pat);stroke:none" />
+      </g>
+      <g id="pc_chalf10">
+        <path id="chalf10bg" d="M 325.0000 306.6987 L 325.0000 281.6987 L 281.6987 306.6987 Z" style="fill:#ffffff;stroke:#f08a1c;stroke-width:1.5;stroke-linejoin:round" />
+        <path id="chalf10" d="M 325.0000 306.6987 L 325.0000 281.6987 L 281.6987 306.6987 Z" style="fill:url(#chalf10pat);stroke:none" />
+      </g>
+      <g id="pc_chalf11">
+        <path id="chalf11bg" d="M 329.9038 200.0000 L 354.9038 200.0000 L 329.9038 243.3013 Z" style="fill:#ffffff;stroke:#f08a1c;stroke-width:1.5;stroke-linejoin:round" />
+        <path id="chalf11" d="M 329.9038 200.0000 L 354.9038 200.0000 L 329.9038 243.3013 Z" style="fill:url(#chalf11pat);stroke:none" />
+      </g>
+      <g id="pc_chalf12">
+        <path id="chalf12bg" d="M 243.3012 200.0000 L 243.3012 225.0000 L 199.9999 200.0000 Z" style="fill:#ffffff;stroke:#f08a1c;stroke-width:1.5;stroke-linejoin:round" />
+        <path id="chalf12" d="M 243.3012 200.0000 L 243.3012 225.0000 L 199.9999 200.0000 Z" style="fill:url(#chalf12pat);stroke:none" />
+      </g>
+      <g id="pc_chalf13">
+        <path id="chalf13bg" d="M 500.0000 200.0000 L 462.5000 221.6506 L 475.0000 243.3013 Z" style="fill:#ffffff;stroke:#f08a1c;stroke-width:1.5;stroke-linejoin:round" />
+        <path id="chalf13" d="M 500.0000 200.0000 L 462.5000 221.6506 L 475.0000 243.3013 Z" style="fill:url(#chalf13pat);stroke:none" />
+      </g>
+      <g id="pc_chalf14">
+        <path id="chalf14bg" d="M 500.0000 243.3013 L 475.0000 243.3013 L 500.0000 200.0000 Z" style="fill:#ffffff;stroke:#f08a1c;stroke-width:1.5;stroke-linejoin:round" />
+        <path id="chalf14" d="M 500.0000 243.3013 L 475.0000 243.3013 L 500.0000 200.0000 Z" style="fill:url(#chalf14pat);stroke:none" />
+      </g>
+    <g id="pc_chalf15"><path id="chalf15bg" d="M 373.2051 243.3013 L 373.2051 268.3013 L 416.5063 243.3013 Z" style="fill:#ffffff;stroke:#f08a1c;stroke-width:1.5;stroke-linejoin:round" /><path id="chalf15" d="M 373.2051 243.3013 L 373.2051 268.3013 L 416.5063 243.3013 Z" style="fill:url(#chalf15pat);stroke:none" /></g><g id="pc_chalf16"><path id="chalf16bg" d="M 413.3975 225.0000 L 456.6987 225.0000 L 413.3975 200.0000 Z" style="fill:#ffffff;stroke:#f08a1c;stroke-width:1.5;stroke-linejoin:round" /><path id="chalf16" d="M 413.3975 225.0000 L 456.6987 225.0000 L 413.3975 200.0000 Z" style="fill:url(#chalf16pat);stroke:none" /></g></g>
     <path id="hex00out" d="M 200.0000 350.0000 L 225.0000 393.3013 L 275.0000 393.3013 L 300.0000 350.0000" style="fill:none;stroke:#e00000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
     <path id="hex01in" d="M 300.0000 350.0000 L 350.0000 350.0000 L 375.0000 393.3013 L 350.0000 436.6025" style="fill:none;stroke:#e00000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
     <path id="hex02out" d="M 350.0000 436.6025 L 393.3013 461.6025 L 436.6025 436.6025 L 436.6025 386.6025" style="fill:none;stroke:#e00000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
@@ -1351,51 +1515,7 @@
   <g inkscape:groupmode="layer" inkscape:label="Tiling patch" id="patch">
     <defs id="patch_defs">
       <g id="patchtile">
-        <path id="patchtile_outline" d="M 0.00000 0.00000 L 0.25000 -0.43301 L 0.75000 -0.43301 L 1.00000 0.00000 L 1.50000 0.00000 L 1.75000 -0.43301 L 1.50000 -0.86603 L 1.93301 -1.11603 L 2.36603 -0.86603 L 2.36603 -0.36603 L 1.93301 -0.11603 L 1.93301 0.38397 L 2.36603 0.63397 L 2.61603 0.20096 L 3.11603 0.20096 L 3.36603 0.63397 L 3.11603 1.06699 L 3.36603 1.50000 L 3.86603 1.50000 L 3.86603 2.00000 L 3.43301 2.25000 L 3.00000 2.00000 L 3.00000 1.50000 L 2.56699 1.25000 L 2.13397 1.50000 L 2.38397 1.93301 L 2.13397 2.36603 L 1.63397 2.36603 L 1.38397 1.93301 L 0.88397 1.93301 L 0.63397 2.36603 L 0.38397 2.79904 L -0.11603 2.79904 L -0.36603 2.36603 L -0.11603 1.93301 L -0.36603 1.50000 L -0.86603 1.50000 L -0.86603 1.00000 L -0.43301 0.75000 L 0.00000 1.00000 L 0.43301 0.75000 L 0.43301 0.25000 Z" />
-        <path id="patchpiece00" d="M 2.36603 0.63397 L 2.61603 1.06699 L 3.11603 1.06699 L 3.36603 0.63397 L 3.11603 0.20096 L 2.61603 0.20096 Z" style="fill:#3db45c;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" />
-        <path id="patchpiece01" d="M 2.13397 1.50000 L 1.63397 1.50000 L 1.38397 1.93301 L 1.63397 2.36603 L 2.13397 2.36603 L 2.38397 1.93301 Z" style="fill:#3db45c;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" />
-        <path id="patchpiece02" d="M 0.63397 2.36603 L 0.38397 1.93301 L -0.11603 1.93301 L -0.36603 2.36603 L -0.11603 2.79904 L 0.38397 2.79904 Z" style="fill:#3db45c;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" />
-        <path id="patchpiece03" d="M 0.00000 0.00000 L 0.25000 -0.43301 L 0.75000 -0.43301 L 1.00000 0.00000 L 0.75000 0.43301 Z" style="fill:#e8463c;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" />
-        <path id="patchpiece04" d="M 1.50000 -0.86603 L 1.93301 -1.11603 L 2.36603 -0.86603 L 2.36603 -0.36603 L 1.93301 -0.11603 Z" style="fill:#e8463c;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" />
-        <path id="patchpiece05" d="M 3.86602 1.50000 L 3.86602 2.00000 L 3.43301 2.25000 L 3.00000 2.00000 L 3.00000 1.50000 Z" style="fill:#e8463c;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" />
-        <path id="patchpiece06" d="M -0.86603 1.50000 L -0.86603 1.00000 L -0.43301 0.75000 L 0.00000 1.00000 L 0.00000 1.50000 Z" style="fill:#e8463c;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" />
-        <path id="patchpiece07" d="M 0.38398 1.93301 L 0.88397 1.93301 L 0.63397 2.36603 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" />
-        <path id="patchpiece08" d="M -0.11602 1.93301 L 0.38398 1.93301 L 0.13398 1.50000 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" />
-        <path id="patchpiece09" d="M 0.13398 1.50000 L -0.36602 1.50000 L -0.11602 1.93301 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" />
-        <path id="patchpiece10" d="M 0.43301 1.25000 L 0.00000 1.50000 L 0.00000 1.00000 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" />
-        <path id="patchpiece11" d="M 0.00000 1.00000 L 0.43301 0.75000 L 0.43301 1.25000 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" />
-        <path id="patchpiece12" d="M 0.86603 0.50000 L 0.43301 0.75000 L 0.43301 0.25000 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" />
-        <path id="patchpiece13" d="M 1.25000 0.43301 L 0.75000 0.43301 L 1.00000 0.00000 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" />
-        <path id="patchpiece14" d="M 1.00000 0.00000 L 1.50000 0.00000 L 1.25000 0.43301 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" />
-        <path id="patchpiece15" d="M 1.50000 0.13397 L 1.93301 0.38397 L 1.93301 -0.11603 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" />
-        <path id="patchpiece16" d="M 2.36603 0.63397 L 1.93301 0.88397 L 1.93301 0.38397 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" />
-        <path id="patchpiece17" d="M 1.63397 1.50000 L 2.13397 1.50000 L 1.88397 1.06699 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" />
-        <path id="patchpiece18" d="M 1.13397 1.50000 L 1.63397 1.50000 L 1.38397 1.93301 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" />
-        <path id="patchpiece19" d="M 0.88397 1.93301 L 1.38397 1.93301 L 1.13397 1.50000 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" />
-        <path id="patchpiece20" d="M 2.56699 1.25000 L 2.13397 1.00000 L 2.13397 1.50000 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" />
-        <path id="patchpiece21" d="M 0.63397 1.50000 L 1.13397 1.50000 L 0.88397 1.93301 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" />
-        <path id="patchpiece22" d="M 0.38398 1.93301 L 0.88397 1.93301 L 0.63397 1.50000 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" />
-        <path id="patchpiece23" d="M 1.38397 1.06699 L 1.88397 1.06699 L 1.63397 1.50000 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" />
-        <path id="patchpiece24" d="M 0.13398 1.50000 L 0.63397 1.50000 L 0.38398 1.93301 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" />
-        <path id="patchpiece25" d="M 1.29904 1.25000 L 1.29904 0.75000 L 0.86603 0.50000 L 0.43301 0.75000 L 0.43301 1.25000 L 0.86603 1.50000 Z" style="fill:#3db45c;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" />
-        <path id="patchpiece26" d="M 1.50000 0.13397 L 1.93301 0.38397 L 1.50000 0.63397 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" />
-        <path id="patchpiece27" d="M 1.50000 0.63397 L 1.93301 0.88397 L 1.93301 0.38397 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" />
-        <path id="patchpiece28" d="M 1.38397 1.06699 L 1.38397 0.56699 L 1.81699 0.81699 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" />
-        <path id="patchpiece29" d="M 2.36603 0.63397 L 2.36603 1.13398 L 1.93301 0.88397 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" />
-        <path id="patchpiece30" d="M 2.58253 1.00898 L 2.36603 1.13398 L 2.36603 0.63397 Z" style="fill:#f5a03a;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" />
-        <path id="patchpiece31" d="M 3.00000 1.25000 L 3.00000 1.50000 L 2.56699 1.25000 Z" style="fill:#f5a03a;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" />
-        <path id="patchpiece32" d="M 2.13397 1.06699 L 1.88397 1.06699 L 2.13397 1.50000 Z" style="fill:#f5a03a;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" />
-        <path id="patchpiece33" d="M 3.11603 1.50000 L 3.36602 1.50000 L 3.11603 1.06699 Z" style="fill:#f5a03a;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" />
-        <path id="patchpiece34" d="M 1.81699 1.06699 L 1.81699 0.81699 L 1.38397 1.06699 Z" style="fill:#f5a03a;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" />
-        <path id="patchpiece35" d="M 1.93301 -0.11603 L 1.80801 -0.33253 L 1.55801 0.10048 Z" style="fill:#f5a03a;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" />
-        <path id="patchpiece36" d="M 0.43301 1.50000 L 0.43301 1.25000 L 0.86603 1.50000 Z" style="fill:#f5a03a;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" />
-        <path id="patchpiece37" d="M 1.29904 1.50000 L 1.29904 1.25000 L 0.86603 1.50000 Z" style="fill:#f5a03a;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" />
-        <path id="patchpiece38" d="M 1.28349 0.50897 L 1.50000 0.63397 L 1.50000 0.13397 Z" style="fill:#f5a03a;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" />
-        <path id="patchpiece39" d="M 1.25000 0.43301 L 1.25000 0.68301 L 0.81699 0.43301 Z" style="fill:#f5a03a;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" />
-        <path id="patchpiece40" d="M 1.38397 1.50000 L 1.63397 1.50000 L 1.38397 1.06699 Z" style="fill:#f5a03a;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" />
-        <path id="patchpiece41" d="M 0.43301 1.50000 L 0.43301 1.25000 L -0.00000 1.50000 Z" style="fill:#f5a03a;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" />
-        <path id="patchtile_edge" d="M 0.00000 0.00000 L 0.25000 -0.43301 L 0.75000 -0.43301 L 1.00000 0.00000 L 1.50000 0.00000 L 1.75000 -0.43301 L 1.50000 -0.86603 L 1.93301 -1.11603 L 2.36603 -0.86603 L 2.36603 -0.36603 L 1.93301 -0.11603 L 1.93301 0.38397 L 2.36603 0.63397 L 2.61603 0.20096 L 3.11603 0.20096 L 3.36603 0.63397 L 3.11603 1.06699 L 3.36603 1.50000 L 3.86603 1.50000 L 3.86603 2.00000 L 3.43301 2.25000 L 3.00000 2.00000 L 3.00000 1.50000 L 2.56699 1.25000 L 2.13397 1.50000 L 2.38397 1.93301 L 2.13397 2.36603 L 1.63397 2.36603 L 1.38397 1.93301 L 0.88397 1.93301 L 0.63397 2.36603 L 0.38397 2.79904 L -0.11603 2.79904 L -0.36603 2.36603 L -0.11603 1.93301 L -0.36603 1.50000 L -0.86603 1.50000 L -0.86603 1.00000 L -0.43301 0.75000 L 0.00000 1.00000 L 0.43301 0.75000 L 0.43301 0.25000 Z" style="fill:none" />
-      </g>
+        <path id="patchtile_outline" d="M 0.00000 0.00000 L 0.25000 -0.43301 L 0.75000 -0.43301 L 1.00000 0.00000 L 1.50000 0.00000 L 1.75000 -0.43301 L 1.50000 -0.86603 L 1.93301 -1.11603 L 2.36603 -0.86603 L 2.36603 -0.36603 L 1.93301 -0.11603 L 1.93301 0.38397 L 2.36603 0.63397 L 2.61603 0.20096 L 3.11603 0.20096 L 3.36603 0.63397 L 3.11603 1.06699 L 3.36603 1.50000 L 3.86603 1.50000 L 3.86603 2.00000 L 3.43301 2.25000 L 3.00000 2.00000 L 3.00000 1.50000 L 2.56699 1.25000 L 2.13397 1.50000 L 2.38397 1.93301 L 2.13397 2.36603 L 1.63397 2.36603 L 1.38397 1.93301 L 0.88397 1.93301 L 0.63397 2.36603 L 0.38397 2.79904 L -0.11603 2.79904 L -0.36603 2.36603 L -0.11603 1.93301 L -0.36603 1.50000 L -0.86603 1.50000 L -0.86603 1.00000 L -0.43301 0.75000 L 0.00000 1.00000 L 0.43301 0.75000 L 0.43301 0.25000 Z" /><path id="patchpiece00" d="M 0.50000 0.00000 L 0.00000 0.00000 L 0.25000 -0.43301 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece01" d="M 0.25000 -0.43301 L 0.75000 -0.43301 L 0.50000 0.00000 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece02" d="M 1.00000 0.00000 L 0.50000 0.00000 L 0.75000 -0.43301 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece03" d="M 0.50000 0.00000 L 1.00000 0.00000 L 0.75000 0.43301 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece04" d="M 0.75000 0.43301 L 0.37500 0.21651 L 0.50000 0.00000 Z" style="fill:#f5a03a;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece05" d="M 0.50000 0.00000 L 0.00000 0.00000 L 0.37500 0.21651 Z" style="fill:#f5a03a;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece06" d="M 1.50000 -0.86603 L 1.93301 -1.11603 L 1.93301 -0.61603 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece07" d="M 2.36603 -0.86603 L 1.93301 -0.61603 L 1.93301 -1.11603 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece08" d="M 1.93301 -0.61603 L 2.36603 -0.86603 L 2.36603 -0.36603 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece09" d="M 2.36603 -0.36603 L 1.93301 -0.11603 L 1.93301 -0.61603 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece10" d="M 1.71651 -0.49103 L 1.93301 -0.61603 L 1.93301 -0.11603 Z" style="fill:#f5a03a;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece11" d="M 1.93301 -0.61603 L 1.50000 -0.86603 L 1.71651 -0.49103 Z" style="fill:#f5a03a;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece12" d="M 2.86603 0.63397 L 2.36603 0.63397 L 2.61603 1.06699 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece13" d="M 2.61603 1.06699 L 3.11603 1.06699 L 2.86603 0.63397 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece14" d="M 3.36602 0.63397 L 2.86603 0.63397 L 3.11603 1.06699 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece15" d="M 2.86603 0.63397 L 3.36602 0.63397 L 3.11603 0.20096 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece16" d="M 3.11603 0.20096 L 2.61603 0.20096 L 2.86603 0.63397 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece17" d="M 2.36603 0.63397 L 2.86603 0.63397 L 2.61603 0.20096 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece18" d="M 3.86602 2.00000 L 3.43301 1.75000 L 3.86602 1.50000 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece19" d="M 3.43301 1.75000 L 3.86602 2.00000 L 3.43301 2.25000 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece20" d="M 3.43301 2.25000 L 3.00000 2.00000 L 3.43301 1.75000 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece21" d="M 3.43301 1.75000 L 3.00000 2.00000 L 3.00000 1.50000 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece22" d="M 3.00000 1.50000 L 3.43301 1.50000 L 3.43301 1.75000 Z" style="fill:#f5a03a;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece23" d="M 3.86602 1.50000 L 3.43301 1.50000 L 3.43301 1.75000 Z" style="fill:#f5a03a;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece24" d="M 1.88397 1.93301 L 1.38397 1.93301 L 1.63397 2.36603 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece25" d="M 1.63397 2.36603 L 2.13397 2.36603 L 1.88397 1.93301 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece26" d="M 2.38397 1.93301 L 1.88397 1.93301 L 2.13397 2.36603 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece27" d="M 1.88397 1.93301 L 2.38397 1.93301 L 2.13397 1.50000 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece28" d="M 2.13397 1.50000 L 1.63397 1.50000 L 1.88397 1.93301 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece29" d="M 1.38397 1.93301 L 1.88397 1.93301 L 1.63397 1.50000 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece30" d="M -0.11602 2.79904 L 0.38398 2.79904 L 0.13398 2.36603 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece31" d="M 0.63397 2.36603 L 0.13398 2.36603 L 0.38398 2.79904 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece32" d="M 0.13398 2.36603 L 0.63397 2.36603 L 0.38398 1.93301 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece33" d="M 0.38398 1.93301 L -0.11602 1.93301 L 0.13398 2.36603 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece34" d="M -0.36602 2.36603 L 0.13398 2.36603 L -0.11602 1.93301 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece35" d="M 0.13398 2.36603 L -0.36602 2.36603 L -0.11602 2.79904 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece36" d="M -0.86603 1.00000 L -0.43301 1.25000 L -0.86603 1.50000 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece37" d="M -0.43301 1.25000 L -0.86603 1.00000 L -0.43301 0.75000 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece38" d="M -0.43301 0.75000 L 0.00000 1.00000 L -0.43301 1.25000 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece39" d="M -0.43301 1.25000 L 0.00000 1.00000 L 0.00000 1.50000 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece40" d="M 0.00000 1.50000 L -0.43301 1.50000 L -0.43301 1.25000 Z" style="fill:#f5a03a;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece41" d="M -0.86603 1.50000 L -0.43301 1.50000 L -0.43301 1.25000 Z" style="fill:#f5a03a;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece42" d="M 0.38398 1.93301 L 0.88397 1.93301 L 0.63397 2.36603 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece43" d="M -0.11602 1.93301 L 0.38398 1.93301 L 0.13398 1.50000 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece44" d="M 0.13398 1.50000 L -0.36602 1.50000 L -0.11602 1.93301 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece45" d="M 0.43301 1.25000 L 0.00000 1.50000 L 0.00000 1.00000 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece46" d="M 0.00000 1.00000 L 0.43301 0.75000 L 0.43301 1.25000 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece47" d="M 0.86603 0.50000 L 0.43301 0.75000 L 0.43301 0.25000 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece48" d="M 1.25000 0.43301 L 0.75000 0.43301 L 1.00000 0.00000 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece49" d="M 1.00000 0.00000 L 1.50000 0.00000 L 1.25000 0.43301 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece50" d="M 1.50000 0.13397 L 1.93301 0.38397 L 1.93301 -0.11603 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece51" d="M 2.36603 0.63397 L 1.93301 0.88397 L 1.93301 0.38397 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece52" d="M 1.63397 1.50000 L 2.13397 1.50000 L 1.88397 1.06699 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece53" d="M 1.13397 1.50000 L 1.63397 1.50000 L 1.38397 1.93301 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece54" d="M 0.88397 1.93301 L 1.38397 1.93301 L 1.13397 1.50000 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece55" d="M 0.63397 1.50000 L 1.13397 1.50000 L 0.88397 1.93301 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece56" d="M 0.38398 1.93301 L 0.88397 1.93301 L 0.63397 1.50000 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece57" d="M 1.38397 1.06699 L 1.88397 1.06699 L 1.63397 1.50000 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece58" d="M 0.13398 1.50000 L 0.63397 1.50000 L 0.38398 1.93301 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece59" d="M 0.86603 1.00000 L 0.43301 1.25000 L 0.86603 1.50000 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece60" d="M 0.86603 1.50000 L 1.29904 1.25000 L 0.86603 1.00000 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece61" d="M 1.29904 0.75000 L 0.86603 1.00000 L 1.29904 1.25000 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece62" d="M 1.29904 0.75000 L 0.86603 0.50000 L 0.86603 1.00000 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece63" d="M 0.43301 0.75000 L 0.86603 1.00000 L 0.86603 0.50000 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece64" d="M 0.43301 1.25000 L 0.86603 1.00000 L 0.43301 0.75000 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece65" d="M 1.50000 0.13397 L 1.93301 0.38397 L 1.50000 0.63397 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece66" d="M 1.50000 0.63397 L 1.93301 0.88397 L 1.93301 0.38397 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece67" d="M 1.29904 1.06699 L 1.29904 0.56699 L 1.73205 0.81699 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece68" d="M 2.36603 0.63397 L 2.36603 1.13398 L 1.93301 0.88397 Z" style="fill:#4a7fe0;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece69" d="M 2.58253 1.00898 L 2.36603 1.13398 L 2.36603 0.63397 Z" style="fill:#f5a03a;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece70" d="M 2.13397 1.06699 L 1.88397 1.06699 L 2.13397 1.50000 Z" style="fill:#f5a03a;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece71" d="M 3.11603 1.50000 L 3.36602 1.50000 L 3.11603 1.06699 Z" style="fill:#f5a03a;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece72" d="M 1.73205 1.06699 L 1.73205 0.81699 L 1.29904 1.06699 Z" style="fill:#f5a03a;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece73" d="M 1.87500 -0.21651 L 1.75000 -0.43301 L 1.50000 0.00000 Z" style="fill:#f5a03a;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece74" d="M 0.43301 1.50000 L 0.43301 1.25000 L 0.86603 1.50000 Z" style="fill:#f5a03a;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece75" d="M 1.29904 1.50000 L 1.29904 1.25000 L 0.86603 1.50000 Z" style="fill:#f5a03a;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece76" d="M 1.28349 0.37500 L 1.50000 0.50000 L 1.50000 0.00000 Z" style="fill:#f5a03a;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece77" d="M 1.25000 0.43301 L 1.25000 0.68301 L 0.81699 0.43301 Z" style="fill:#f5a03a;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece78" d="M 1.29904 1.50000 L 1.54904 1.50000 L 1.29904 1.06699 Z" style="fill:#f5a03a;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece79" d="M 0.43301 1.50000 L 0.43301 1.25000 L -0.00000 1.50000 Z" style="fill:#f5a03a;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece80" d="M 3.00000 1.50000 L 2.62500 1.28349 L 2.75000 1.06699 Z" style="fill:#f5a03a;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece81" d="M 3.00000 1.06699 L 2.75000 1.06699 L 3.00000 1.50000 Z" style="fill:#f5a03a;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece82" d="M 1.73205 1.06699 L 1.73205 0.81699 L 2.16506 1.06699 Z" style="fill:#f5a03a;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchpiece83" d="M 2.13397 1.25000 L 2.56699 1.25000 L 2.13397 1.50000 Z" style="fill:#f5a03a;stroke:#ffffff;stroke-width:0.02;stroke-linejoin:round" /><path id="patchtile_edge" d="M 0.00000 0.00000 L 0.25000 -0.43301 L 0.75000 -0.43301 L 1.00000 0.00000 L 1.50000 0.00000 L 1.75000 -0.43301 L 1.50000 -0.86603 L 1.93301 -1.11603 L 2.36603 -0.86603 L 2.36603 -0.36603 L 1.93301 -0.11603 L 1.93301 0.38397 L 2.36603 0.63397 L 2.61603 0.20096 L 3.11603 0.20096 L 3.36603 0.63397 L 3.11603 1.06699 L 3.36603 1.50000 L 3.86603 1.50000 L 3.86603 2.00000 L 3.43301 2.25000 L 3.00000 2.00000 L 3.00000 1.50000 L 2.56699 1.25000 L 2.13397 1.50000 L 2.38397 1.93301 L 2.13397 2.36603 L 1.63397 2.36603 L 1.38397 1.93301 L 0.88397 1.93301 L 0.63397 2.36603 L 0.38397 2.79904 L -0.11603 2.79904 L -0.36603 2.36603 L -0.11603 1.93301 L -0.36603 1.50000 L -0.86603 1.50000 L -0.86603 1.00000 L -0.43301 0.75000 L 0.00000 1.00000 L 0.43301 0.75000 L 0.43301 0.25000 Z" style="fill:none" /></g>
     </defs>
     <use id="patchtile000" xlink:href="#patchtile" transform="matrix(38.871531 -0.000000 0.000000 -38.871531 308.1014 1117.8803)" style="fill:#efbcbc;stroke:#b00000;stroke-width:0.0412;stroke-linejoin:round" />
     <use id="patchtile001" xlink:href="#patchtile" transform="matrix(19.435766 -33.663733 -33.663733 -19.435766 249.7941 1151.5441)" style="fill:#efefbc;stroke:#b00000;stroke-width:0.0412;stroke-linejoin:round" />
