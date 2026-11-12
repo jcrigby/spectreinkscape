@@ -579,6 +579,30 @@
   <g inkscape:groupmode="layer" inkscape:label="Movable pieces" id="play">
     <path id="movehex" d="M 940.0000 520.0000 L 915.0000 563.3013 L 865.0000 563.3013 L 840.0000 520.0000 L 865.0000 476.6987 L 915.0000 476.6987 Z" style="fill:#2060d0;fill-opacity:0.45;stroke:#103a8a;stroke-width:2;stroke-linejoin:round" />
     <path id="movetri" d="M 990 541.6506 L 1015 498.3494 L 1040 541.6506 Z" style="fill:#8a3fc0;fill-opacity:0.5;stroke:#4a1a70;stroke-width:2;stroke-linejoin:round" />
+    <path id="movehalf01" d="M 76.6667 512.4338 L 101.6667 512.4338 L 76.6667 469.1325 Z" style="fill:#f08a1c;fill-opacity:0.55;stroke:#8a4a00;stroke-width:2;stroke-linejoin:round" />
+    <path id="movehalf02" d="M 116.5662 506.3333 L 138.2169 518.8333 L 138.2169 468.8333 Z" style="fill:#f08a1c;fill-opacity:0.55;stroke:#8a4a00;stroke-width:2;stroke-linejoin:round" />
+    <path id="movehalf03" d="M 160.3333 498.0000 L 172.8333 519.6506 L 197.8333 476.3494 Z" style="fill:#f08a1c;fill-opacity:0.55;stroke:#8a4a00;stroke-width:2;stroke-linejoin:round" />
+    <path id="movehalf04" d="M 208.5662 489.6667 L 208.5662 514.6667 L 251.8675 489.6667 Z" style="fill:#f08a1c;fill-opacity:0.55;stroke:#8a4a00;stroke-width:2;stroke-linejoin:round" />
+    <path id="movehalf05" d="M 260.6667 483.5662 L 248.1667 505.2169 L 298.1667 505.2169 Z" style="fill:#f08a1c;fill-opacity:0.55;stroke:#8a4a00;stroke-width:2;stroke-linejoin:round" />
+    <path id="movehalf06" d="M 315.0000 481.3333 L 293.3494 493.8333 L 336.6506 518.8333 Z" style="fill:#f08a1c;fill-opacity:0.55;stroke:#8a4a00;stroke-width:2;stroke-linejoin:round" />
+    <path id="movehalf07" d="M 369.3333 483.5662 L 344.3333 483.5662 L 369.3333 526.8675 Z" style="fill:#f08a1c;fill-opacity:0.55;stroke:#8a4a00;stroke-width:2;stroke-linejoin:round" />
+    <path id="movehalf08" d="M 421.4338 489.6667 L 399.7831 477.1667 L 399.7831 527.1667 Z" style="fill:#f08a1c;fill-opacity:0.55;stroke:#8a4a00;stroke-width:2;stroke-linejoin:round" />
+    <path id="movehalf09" d="M 469.6667 498.0000 L 457.1667 476.3494 L 432.1667 519.6506 Z" style="fill:#f08a1c;fill-opacity:0.55;stroke:#8a4a00;stroke-width:2;stroke-linejoin:round" />
+    <path id="movehalf10" d="M 513.4338 506.3333 L 513.4338 481.3333 L 470.1325 506.3333 Z" style="fill:#f08a1c;fill-opacity:0.55;stroke:#8a4a00;stroke-width:2;stroke-linejoin:round" />
+    <path id="movehalf11" d="M 553.3333 512.4338 L 565.8333 490.7831 L 515.8333 490.7831 Z" style="fill:#f08a1c;fill-opacity:0.55;stroke:#8a4a00;stroke-width:2;stroke-linejoin:round" />
+    <path id="movehalf12" d="M 591.0000 514.6667 L 612.6506 502.1667 L 569.3494 477.1667 Z" style="fill:#f08a1c;fill-opacity:0.55;stroke:#8a4a00;stroke-width:2;stroke-linejoin:round" />
+    <path id="movehalf13" d="M 93.3333 570.4338 L 68.3333 570.4338 L 93.3333 527.1325 Z" style="fill:#f08a1c;fill-opacity:0.55;stroke:#8a4a00;stroke-width:2;stroke-linejoin:round" />
+    <path id="movehalf14" d="M 131.0000 572.6667 L 109.3494 560.1667 L 152.6506 535.1667 Z" style="fill:#f08a1c;fill-opacity:0.55;stroke:#8a4a00;stroke-width:2;stroke-linejoin:round" />
+    <path id="movehalf15" d="M 168.6667 570.4338 L 156.1667 548.7831 L 206.1667 548.7831 Z" style="fill:#f08a1c;fill-opacity:0.55;stroke:#8a4a00;stroke-width:2;stroke-linejoin:round" />
+    <path id="movehalf16" d="M 208.5662 564.3333 L 208.5662 539.3333 L 251.8675 564.3333 Z" style="fill:#f08a1c;fill-opacity:0.55;stroke:#8a4a00;stroke-width:2;stroke-linejoin:round" />
+    <path id="movehalf17" d="M 252.3333 556.0000 L 264.8333 534.3494 L 289.8333 577.6506 Z" style="fill:#f08a1c;fill-opacity:0.55;stroke:#8a4a00;stroke-width:2;stroke-linejoin:round" />
+    <path id="movehalf18" d="M 300.5662 547.6667 L 322.2169 535.1667 L 322.2169 585.1667 Z" style="fill:#f08a1c;fill-opacity:0.55;stroke:#8a4a00;stroke-width:2;stroke-linejoin:round" />
+    <path id="movehalf19" d="M 352.6667 541.5662 L 377.6667 541.5662 L 352.6667 584.8675 Z" style="fill:#f08a1c;fill-opacity:0.55;stroke:#8a4a00;stroke-width:2;stroke-linejoin:round" />
+    <path id="movehalf20" d="M 407.0000 539.3333 L 428.6506 551.8333 L 385.3494 576.8333 Z" style="fill:#f08a1c;fill-opacity:0.55;stroke:#8a4a00;stroke-width:2;stroke-linejoin:round" />
+    <path id="movehalf21" d="M 461.3333 541.5662 L 473.8333 563.2169 L 423.8333 563.2169 Z" style="fill:#f08a1c;fill-opacity:0.55;stroke:#8a4a00;stroke-width:2;stroke-linejoin:round" />
+    <path id="movehalf22" d="M 513.4338 547.6667 L 513.4338 572.6667 L 470.1325 547.6667 Z" style="fill:#f08a1c;fill-opacity:0.55;stroke:#8a4a00;stroke-width:2;stroke-linejoin:round" />
+    <path id="movehalf23" d="M 561.6667 556.0000 L 549.1667 577.6506 L 524.1667 534.3494 Z" style="fill:#f08a1c;fill-opacity:0.55;stroke:#8a4a00;stroke-width:2;stroke-linejoin:round" />
+    <path id="movehalf24" d="M 605.4338 564.3333 L 583.7831 576.8333 L 583.7831 526.8333 Z" style="fill:#f08a1c;fill-opacity:0.55;stroke:#8a4a00;stroke-width:2;stroke-linejoin:round" />
     </g>
   <g inkscape:groupmode="layer" inkscape:label="Tiling patch" id="patch">
     <defs id="patch_defs">
