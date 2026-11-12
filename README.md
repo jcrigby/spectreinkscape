@@ -56,3 +56,14 @@ The drawing went through several piece sets on the way here. Git tags mark the m
 
 Drawn in Inkscape, with [Claude Code](https://claude.com/claude-code) driving the running
 Inkscape window step by step and checking each piece for overlaps before placing it.
+
+The Claude Code skill used for that is included in `.claude/skills/inkscape-live/`, so it is
+available automatically when Claude Code is started in a clone of this repo:
+
+- `SKILL.md` describes how to control a running Inkscape over D-Bus, how to read back edits
+  made by hand, and how to test whether shapes fit.
+- `ink.py` is the helper it uses. It also works on its own, for example
+  `python3 .claude/skills/inkscape-live/ink.py overlaps spectre.svg --under tileR --match '^(ctri|chalf|rsplit|rcut|cq)'`
+  reports any overlapping pieces on the working tile.
+
+It was written for Inkscape 1.4 on Linux and needs `gdbus` for the live commands.
