@@ -36,13 +36,24 @@ The same 71 tiles, each drawn with its 95 pieces. Dark red lines are the tile ou
 
 ![71 Spectre tiles, each filled with the four shapes](spectre-patch.svg)
 
+## Build it yourself
+
+```
+python3 make_spectre.py
+```
+
+writes `spectre-shapes.svg` and `spectre-patch.svg` from scratch. The script needs only
+Python 3: it holds the tile's 14 corners and the 95 pieces as data, derives the
+hexagon-edged outline, builds the 71-tile patch with the Spectre substitution rules, and
+refuses to write anything if two pieces overlap. Both pictures on this page are its output.
+
 ## Files
 
 - `spectre.svg` is the working drawing: a locked reference tile, an editable working tile
   with numbered hexagons and corner labels, loose pieces to drag around, and the 71-tile
   patch showing the pieces inside every tile.
-- `spectre-shapes.svg` is the summary sheet shown above.
-- `spectre-patch.svg` is the tiling patch on its own, copied out of `spectre.svg`.
+- `make_spectre.py` generates the two pictures on this page.
+- `spectre-shapes.svg` and `spectre-patch.svg` are those pictures.
 
 ## Earlier versions
 
