@@ -1754,12 +1754,38 @@
        d="m 998.3975,243.3013 -25,43.3013 h -50 l -25,-43.3013 25,-43.3013 h 50 z"
        style="fill:#2060d0;fill-opacity:0.45;stroke:#103a8a;stroke-width:2;stroke-linejoin:round" />
     <path
-       id="movehalf"
-       d="m 798.39752,243.30126 -25.00002,-43.30129 25,-43.30127 50.00002,1e-5 z"
-       style="fill:#f08a00;fill-opacity:0.5;stroke:#8a4a00;stroke-width:2;stroke-linejoin:round" />
-    <path
        id="movetri"
-       d="M 990 520 L 1015 476.6987 L 1040 520 Z"
+       d="M 835,306.69869 809.99997,263.3974 860,263.39741 Z"
+       style="fill:#8a3fc0;fill-opacity:0.5;stroke:#4a1a70;stroke-width:2;stroke-linejoin:round"
+       inkscape:transform-center-x="108.83392"
+       inkscape:transform-center-y="42.756232" />
+    <path
+       id="path3"
+       d="m 748.39749,156.69871 50.00003,-1e-5 -25.00003,43.30129 z"
+       style="fill:#8a3fc0;fill-opacity:0.5;stroke:#4a1a70;stroke-width:2;stroke-linejoin:round" />
+    <path
+       id="path4"
+       d="m 798.3975,156.69875 25,-43.3013 25,43.3013 z"
+       style="fill:#8a3fc0;fill-opacity:0.5;stroke:#4a1a70;stroke-width:2;stroke-linejoin:round" />
+    <path
+       id="path5"
+       d="m 723.3975,200 25,-43.3013 25,43.3013 z"
+       style="fill:#8a3fc0;fill-opacity:0.5;stroke:#4a1a70;stroke-width:2;stroke-linejoin:round" />
+    <path
+       id="path6"
+       d="m 799.54066,242.85308 25,-43.3013 25,43.3013 z"
+       style="fill:#8a3fc0;fill-opacity:0.5;stroke:#4a1a70;stroke-width:2;stroke-linejoin:round" />
+    <path
+       id="path7"
+       d="m 773.3975,200 25,-43.3013 25,43.3013 z"
+       style="fill:#8a3fc0;fill-opacity:0.5;stroke:#4a1a70;stroke-width:2;stroke-linejoin:round" />
+    <path
+       id="path8"
+       d="m 798.3975,156.6987 50.00003,-1e-5 -25.00003,43.30129 z"
+       style="fill:#8a3fc0;fill-opacity:0.5;stroke:#4a1a70;stroke-width:2;stroke-linejoin:round" />
+    <path
+       id="path9"
+       d="m 772.74379,201.00965 50.00003,-1e-5 -25.00003,43.30129 z"
        style="fill:#8a3fc0;fill-opacity:0.5;stroke:#4a1a70;stroke-width:2;stroke-linejoin:round" />
   </g>
   <g
