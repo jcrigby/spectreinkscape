@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" width="1260" height="2083" viewBox="0 0 1260 2083" version="1.1" id="svg1" sodipodi:docname="spectre.svg" inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)">
   <defs id="defs1" />
-  <sodipodi:namedview id="namedview1" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" showgrid="false" inkscape:zoom="1.2863637" inkscape:cx="667.38513" inkscape:cy="41.590104" inkscape:window-width="2154" inkscape:window-height="1620" inkscape:window-x="0" inkscape:window-y="28" inkscape:window-maximized="0" inkscape:current-layer="play" />
+  <sodipodi:namedview id="namedview1" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" showgrid="false" inkscape:zoom="1.2863637" inkscape:cx="667.38513" inkscape:cy="49.363955" inkscape:window-width="2154" inkscape:window-height="1620" inkscape:window-x="0" inkscape:window-y="28" inkscape:window-maximized="0" inkscape:current-layer="play" />
   <g inkscape:groupmode="layer" inkscape:label="Hexagon tile" id="tileA" sodipodi:insensitive="true">
     <path id="spectre" d="M 200.0000 350.0000 L 300.0000 350.0000 L 350.0000 436.6025 L 436.6025 386.6025 L 436.6025 286.6025 L 536.6025 286.6025 L 586.6025 200.0000 L 500.0000 150.0000 L 413.3975 200.0000 L 363.3975 113.3975 L 263.3975 113.3975 L 163.3975 113.3975 L 113.3975 200.0000 L 200.0000 250.0000 Z" style="fill:none;stroke:#e6e6e6;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
     <path id="hex00in" d="M 200.0000 350.0000 L 225.0000 306.6987 L 275.0000 306.6987 L 300.0000 350.0000" style="fill:none;stroke:#e6e6e6;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
@@ -827,9 +827,6 @@
         <pattern id="ctri14pat_r" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(313.3975 171.1325) rotate(0.0000) translate(-5.55556 0)">
           <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" id="rect20_r" />
         </pattern>
-        <pattern id="ctri11pat_r" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(427.8312 225.0000) rotate(150.0000) translate(-5.55556 0)">
-          <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" id="rect21_r" />
-        </pattern>
         <pattern id="ctri15pat_r" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(288.3975 185.5662) rotate(0.0000) translate(-5.55556 0)">
           <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#2060d0;stroke:none" id="rect22_r" />
         </pattern>
@@ -1040,7 +1037,7 @@
         <pattern id="chalf14pat_r" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(491.6667 228.8675) rotate(0.0000) translate(-5.55556 0)">
           <rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#f08a1c;stroke:none" id="rect151" />
         </pattern>
-      </defs>
+      <pattern id="chalf15pat_r" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(387.6388 251.6346) rotate(90.0000) translate(-5.55556 0)"><rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#f08a1c;stroke:none" /></pattern><pattern id="chalf16pat_r" patternUnits="userSpaceOnUse" width="22.22222" height="22.22222" patternTransform="translate(427.8312 216.6667) rotate(0.0000) translate(-5.55556 0)"><rect x="0" y="0" width="11.11111" height="22.22222" style="fill:#f08a1c;stroke:none" /></pattern></defs>
       <g id="pc_ctri01_r">
         <path id="ctri01bg_r" d="M 238.3975 156.6987 L 288.3975 156.6987 L 263.3975 113.3974 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
         <path id="ctri01_r" d="M 238.3975 156.6987 L 288.3975 156.6987 L 263.3975 113.3974 Z" style="fill:url(#ctri01pat_r);stroke:none" />
@@ -1092,10 +1089,6 @@
       <g id="pc_ctri14_r">
         <path id="ctri14bg_r" d="M 288.3975 156.6987 L 338.3975 156.6987 L 313.3975 200.0000 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
         <path id="ctri14_r" d="M 288.3975 156.6987 L 338.3975 156.6987 L 313.3975 200.0000 Z" style="fill:url(#ctri14pat_r);stroke:none" />
-      </g>
-      <g id="pc_ctri11_r">
-        <path id="ctri11bg_r" d="M 456.6987 225.0000 L 413.3975 250.0000 L 413.3975 200.0000 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
-        <path id="ctri11_r" d="M 456.6987 225.0000 L 413.3975 250.0000 L 413.3975 200.0000 Z" style="fill:url(#ctri11pat_r);stroke:none" />
       </g>
       <g id="pc_ctri15_r">
         <path id="ctri15bg_r" d="M 263.3975 200.0000 L 313.3975 200.0000 L 288.3975 156.6987 Z" style="fill:#ffffff;stroke:#2060d0;stroke-width:1.5;stroke-linejoin:round" />
@@ -1205,7 +1198,7 @@
         <path id="chalf14bg_r" d="M 500.0000 243.3013 L 475.0000 243.3013 L 500.0000 200.0000 Z" style="fill:#ffffff;stroke:#f08a1c;stroke-width:1.5;stroke-linejoin:round" />
         <path id="chalf14_r" d="M 500.0000 243.3013 L 475.0000 243.3013 L 500.0000 200.0000 Z" style="fill:url(#chalf14pat_r);stroke:none" />
       </g>
-    </g>
+    <g id="pc_chalf15_r"><path id="chalf15bg_r" d="M 373.2051 243.3013 L 373.2051 268.3013 L 416.5063 243.3013 Z" style="fill:#ffffff;stroke:#f08a1c;stroke-width:1.5;stroke-linejoin:round" /><path id="chalf15_r" d="M 373.2051 243.3013 L 373.2051 268.3013 L 416.5063 243.3013 Z" style="fill:url(#chalf15pat_r);stroke:none" /></g><g id="pc_chalf16_r"><path id="chalf16bg_r" d="M 413.3975 225.0000 L 456.6987 225.0000 L 413.3975 200.0000 Z" style="fill:#ffffff;stroke:#f08a1c;stroke-width:1.5;stroke-linejoin:round" /><path id="chalf16_r" d="M 413.3975 225.0000 L 456.6987 225.0000 L 413.3975 200.0000 Z" style="fill:url(#chalf16pat_r);stroke:none" /></g></g>
     <path id="hex00out_r" d="M 200.0000 350.0000 L 225.0000 393.3013 L 275.0000 393.3013 L 300.0000 350.0000" style="fill:none;stroke:#e00000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
     <path id="hex01in_r" d="M 300.0000 350.0000 L 350.0000 350.0000 L 375.0000 393.3013 L 350.0000 436.6025" style="fill:none;stroke:#e00000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
     <path id="hex02out_r" d="M 350.0000 436.6025 L 393.3013 461.6025 L 436.6025 436.6025 L 436.6025 386.6025" style="fill:none;stroke:#e00000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
